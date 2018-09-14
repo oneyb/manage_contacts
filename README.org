@@ -25,10 +25,13 @@ manage_contacts .. contacts-from-vcfs.org
   ~tests~ directory.
 
 Run:
-```bash
+#+BEGIN_SRC shell
 nosetests -v
-```
+#+END_SRC
+
 * Thanks!
 
 Inspired by:
-  - Titus von der Malsburg <malsburg@posteo.de>
+  - Titus von der Malsburg @tmalsburg
+    - specifically: https://gist.github.com/tmalsburg/9747104
+  - Some other guy from whom I took code
