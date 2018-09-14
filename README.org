@@ -1,0 +1,34 @@
+* A way to corral VCF files
+
+  Please just give me an org-mode file with all my contacts, so I can merge and add stuff at will.
+
+#+BEGIN_SRC shell :export no-eval
+manage_contacts .. contacts-from-vcfs.org
+#+END_SRC
+
+
+** Easy personal contact file management
+   ~manage_contacts~ is dedicated to collecting contacts in vcf-format for
+   contact management.  Some of the features that manage_contacts offers are:
+   - read in all vcf-files recursively in a directory
+   - output as org-contacts formatted org-file 
+   - output as all vcf-files as a single sorted, uniqued vcf-file
+
+* TODO Nice to have additions:
+  - [ ] Grouping based on tags
+  - [ ] automatic merging of disparate info
+  - [ ] Output to Google Contacts CSV
+  - [ ] Output to VCF with Python from org-mode 
+    - Currently, only possible from emacs
+* If you want to help
+  If you would like to contribute code please include tests.  Please see
+  ~tests~ directory.
+
+Run:
+```bash
+nosetests -v
+```
+* Thanks!
+
+Inspired by:
+  - Titus von der Malsburg <malsburg@posteo.de>

@@ -1,0 +1,3701 @@
+* 1&1 Internet Inc.
+  :PROPERTIES:
+  :EMAIL: billing@1and1.com
+  :FN: 1&1 Internet Inc.
+  :N: Inc.;1&1 Internet;;;
+  :END:
+* 4t ?Žµ»?UŒÔ? ‰j?
+  :PROPERTIES:
+  :FN: 4t ?Žµ»?UŒÔ? ‰j?
+  :N: ;4t                     ;;;
+  :END:
+* 4t>æ"X>²âã>...×•
+  :PROPERTIES:
+  :FN: 4t>æ"X>²âã>...×•
+  :N: ;4t>æ"X>²âã>...×•;;;
+  :END:
+* AL Gewerbe und Industrie
+  :PROPERTIES:
+  :EMAIL: gewerbe.industrie@suva.ch (INTERNET)
+  :FN: AL Gewerbe und Industrie
+  :N: Industrie;AL;Gewerbe und;;
+  :END:
+* ALESSANDROSkl
+  :PROPERTIES:
+  :FN: ALESSANDROSkl
+  :N: ;ALESSANDROSkl;;;
+  :PHONE: +393297252423
+  :PHONE: +41766116221
+  :END:
+* Abdur-Rahmaan Janhangeer
+  :PROPERTIES:
+  :EMAIL: arj.python@gmail.com (INTERNET)
+  :FN: Abdur-Rahmaan Janhangeer
+  :N: Janhangeer;Abdur-Rahmaan;;;
+  :END:
+* Adam
+  :PROPERTIES:
+  :FN: ;Adam;;;
+  :N: ;Adam;;;
+  :PHONE: +16165022299
+  :END:
+* Adam Kuz
+  :PROPERTIES:
+  :FN: ;Adam Kuz;;;
+  :N: ;Adam Kuz;;;
+  :PHONE: +14358305751
+  :END:
+* Adam Yost
+  :PROPERTIES:
+  :EMAIL: addzies@gmail.com (INTERNET)
+  :FN: Adam Yost
+  :N: Yost;Adam;;;
+  :END:
+* Adrian Essento
+  :PROPERTIES:
+  :FN: Adrian Essento
+  :N: Essento;Adrian;;;
+  :PHONE: +41794671416
+  :END:
+* Albert Baur
+  :PROPERTIES:
+  :EMAIL: a.h.baur@googlemail.com (INTERNET)
+  :FN: Albert Baur
+  :N: Baur;Albert;;;
+  :END:
+* Albi Scevola
+  :PROPERTIES:
+  :EMAIL: albisheva@hotmail.it (INTERNET)
+  :FN: Albi Scevola
+  :N: Scevola;Albi;;;
+  :END:
+* Alex Vogel
+  :PROPERTIES:
+  :FN: Alex Vogel
+  :N: ;Alex Vogel;;;
+  :PHONE: +4915111670504
+  :END:
+* Ali Haenel
+  :PROPERTIES:
+  :EMAIL: alexanderhaenel@gmail.com (INTERNET)
+  :FN: Ali Haenel
+  :N: Haenel;Ali;;;
+  :END:
+* Amie Romney
+  :PROPERTIES:
+  :EMAIL: amielynnthomas@gmail.com (INTERNET)
+  :FN: Amie Romney
+  :N: Romney;Amie;;;
+  :END:
+* Amy Curlee
+  :PROPERTIES:
+  :EMAIL: amycurlee@gmail.com (INTERNET)
+  :FN: Amy Curlee
+  :N: Curlee;Amy;;;
+  :END:
+* Anders Lindroth
+  :PROPERTIES:
+  :EMAIL: messages@co-action.net
+  :FN: Anders Lindroth
+  :N: Lindroth;Anders;;;
+  :END:
+* Andrea
+  :PROPERTIES:
+  :FN: Andrea
+  :N: ;Andrea;;;
+  :PHONE: 01607993139
+  :END:
+* Andrea Frueh
+  :PROPERTIES:
+  :EMAIL: Frueh.Rea@web.de
+  :FN: Andrea Frueh
+  :N: Frueh;Andrea;;;
+  :END:
+* Andrea Leibniz
+  :PROPERTIES:
+  :FN: Andrea Leibniz
+  :N: ;Andrea Leibniz;;;
+  :PHONE: +491607993139
+  :END:
+* Andrea Panigrahi
+  :PROPERTIES:
+  :ADDRESS: Wibichstrasse 90, 8037 Zürich, Schweiz
+  :EMAIL: andrea.panigrahi@startagain.ch
+  :FN: Andrea Panigrahi
+  :N: Panigrahi;Andrea;;;
+  :ORG: V, i, p, a, s, s, a, n, a
+  :PHONE: +41765134204
+  :END:
+* Andreas Corletto
+  :PROPERTIES:
+  :EMAIL: andreas.corletto@gmx.ch
+  :FN: Andreas Corletto
+  :N: ;Andreas Corletto;;;
+  :PHONE: +41796371945
+  :END:
+* Andreas Rueegg
+  :PROPERTIES:
+  :EMAIL: pulver50gut@gmail.com (INTERNET)
+  :FN: Andreas Rueegg
+  :N: Rueegg;Andreas;;;
+  :END:
+* Andrzei
+  :PROPERTIES:
+  :FN: Andrzei
+  :N: ;Andrzei;;;
+  :PHONE: 0797715406
+  :END:
+* Anita Düring
+  :PROPERTIES:
+  :EMAIL: anita.duering@me.com (INTERNET)
+  :FN: Anita Düring
+  :N: Düring;Anita;;;
+  :END:
+* Anne Simang
+  :PROPERTIES:
+  :EMAIL: anne.simang@yahoo.de
+  :FN: Anne Simang
+  :N: Simang;Anne;;;
+  :PHONE: 01733913114
+  :END:
+* Annechristin Stein
+  :PROPERTIES:
+  :EMAIL: annechristinstein@gmx.de (INTERNET)
+  :FN: Annechristin Stein
+  :N: Stein;Annechristin;;;
+  :END:
+* Annette Bauer
+  :PROPERTIES:
+  :EMAIL: annette.bauer@ufz.de (INTERNET)
+  :FN: Annette Bauer
+  :N: Bauer;Annette;;;
+  :END:
+* Aunt Dixie
+  :PROPERTIES:
+  :FN: ;Aunt Dixie;;;
+  :N: ;Aunt Dixie;;;
+  :PHONE: +18014581970
+  :END:
+* Aunt Trudy
+  :PROPERTIES:
+  :FN: ;Aunt Trudy;;;
+  :N: ;Aunt Trudy;;;
+  :PHONE: +19163671276
+  :PHONE: +19167868076
+  :END:
+* Aunt Trudy Schaaf
+  :PROPERTIES:
+  :FN: Aunt Trudy Schaaf
+  :N: Schaaf;Aunt;Trudy;;
+  :PHONE: +14352303786
+  :END:
+* Auskunft Swisscom
+  :PROPERTIES:
+  :FN: Auskunft Swisscom
+  :N: ;Auskunft Swisscom ;;;
+  :PHONE: 1811
+  :END:
+* BEDOYA BOURONCLE
+  :PROPERTIES:
+  :EMAIL: Ignacio.Bedoya@inkiaenergy.com, ignaciobedoya@gmail.com (INTERNET)
+  :FN: BEDOYA BOURONCLE
+  :N: Ignacio;BEDOYA;BOURONCLE;;
+  :END:
+* BELL
+  :PROPERTIES:
+  :EMAIL: alexandrabell1@hotmail.com (INTERNET)
+  :FN: BELL
+  :N: BELL;Alexandra;;;
+  :END:
+* BRAUN
+  :PROPERTIES:
+  :EMAIL: daniela.braun9@gmx.de (INTERNET)
+  :FN: BRAUN
+  :N: BRAUN;Daniela;;;
+  :END:
+* Bandile.Dlabantu
+  :PROPERTIES:
+  :ADDRESS:  Johannesburg, ZA
+  :FN: Bandile.Dlabantu
+  :N: Dlabantu;Bandile;;;
+  :END:
+* Beat Burkhard
+  :PROPERTIES:
+  :EMAIL: beat-burkhard@bluewin.ch
+  :FN: Beat Burkhard
+  :N: Burkhard;Beat;;;
+  :END:
+* Beat Schreiber
+  :PROPERTIES:
+  :FN: Beat Schreiber
+  :N: Schreiber;Beat;;;
+  :PHONE: +41794850013
+  :PHONE: +41794850013
+  :END:
+* Beatrice Peter
+  :PROPERTIES:
+  :EMAIL: gruethof@gmx.ch (INTERNET)
+  :EMAIL: jorge.vasquez.guarniz@gmail.com (INTERNET, HOME)
+  :EMAIL: peter.beatrice@gmail.com (INTERNET, HOME)
+  :FN: Beatrice Peter
+  :N: Peter;Beatrice;;;
+  :END:
+* Beierkuhnlein
+  :PROPERTIES:
+  :EMAIL: Carl.Beierkuhnlein@uni-bayreuth.de
+  :FN: Beierkuhnlein
+  :N: Carl;Beierkuhnlein;;;
+  :END:
+* Bene Osnabrueck
+  :PROPERTIES:
+  :FN: Bene Osnabrueck
+  :N: ;Bene Osnabrueck;;;
+  :END:
+* Beni Stocker
+  :PROPERTIES:
+  :FN: Beni Stocker
+  :N: ;Beni Stocker;;;
+  :PHONE: +41796704027
+  :END:
+* Benj Steiner
+  :PROPERTIES:
+  :FN: Benj Steiner
+  :N: Steiner;Benj;;;
+  :PHONE: +41792586200
+  :END:
+* Benjamin Steiner
+  :PROPERTIES:
+  :EMAIL: bsx@gmx.ch (INTERNET)
+  :FN: Benjamin Steiner
+  :N: Steiner;Benjamin;;;
+  :END:
+* Benni
+  :PROPERTIES:
+  :FN: ;Benni;;;
+  :N: ;Benni;;;
+  :PHONE: +49160951943
+  :END:
+* Benni Leutner
+  :PROPERTIES:
+  :EMAIL: benjaminleutner@web.de (INTERNET)
+  :FN: Benni Leutner
+  :N: Leutner;Benni;;;
+  :END:
+* Bernadette Dhamm
+  :PROPERTIES:
+  :FN: Bernadette Dhamm
+  :N: Dhamm;Bernadette;;;
+  :PHONE: +491732986111
+  :END:
+* Bernd Stahl
+  :PROPERTIES:
+  :FN: Bernd Stahl
+  :N: Stahl;Bernd;;;
+  :PHONE: +41765381357
+  :END:
+* Berni Ahrens
+  :PROPERTIES:
+  :EMAIL: bernhard.ahrens@gmx.de (INTERNET)
+  :FN: Berni Ahrens
+  :N: Ahrens;Berni;;;
+  :END:
+* Bernie
+  :PROPERTIES:
+  :FN: ;Bernie;;;
+  :N: ;Bernie;;;
+  :PHONE: +49160965166
+  :END:
+* Bettina Friedli
+  :PROPERTIES:
+  :EMAIL: bettinafriedli@gmx.ch
+  :FN: Bettina Friedli
+  :N: Friedli;Bettina;;;
+  :END:
+* Betty Self
+  :PROPERTIES:
+  :FN: ;Betty Self;;;
+  :N: ;Betty Self;;;
+  :PHONE: +18123913973
+  :END:
+* Bianca G=C3=BCnther
+  :PROPERTIES:
+  :EMAIL: bianca.guenther@gmx.ch
+  :FN: Bianca G=C3=BCnther
+  :N: G=C3=BCnther;Bianca;;;
+  :END:
+* Bianca Günther
+  :PROPERTIES:
+  :EMAIL: bianca.guenther@gmx.ch (INTERNET)
+  :FN: Bianca Günther
+  :N: Günther;Bianca;;;
+  :END:
+* Big John
+  :PROPERTIES:
+  :FN: ;Big John;;;
+  :N: ;Big John;;;
+  :PHONE: +17704015800
+  :PHONE: +17705526657
+  :END:
+* Bill Cell
+  :PROPERTIES:
+  :FN: ;Bill Cell;;;
+  :N: ;Bill Cell;;;
+  :PHONE: +18015408943
+  :END:
+* Billy Sweeney
+  :PROPERTIES:
+  :EMAIL: panamabilly@earthlink.net
+  :FN: Billy Sweeney
+  :N: Sweeney;Billy;;;
+  :END:
+* Billy!
+  :PROPERTIES:
+  :FN: Billy!
+  :N: ;Billy!;;;
+  :PHONE: +18015408943
+  :END:
+* Birdman Vog
+  :PROPERTIES:
+  :FN: Birdman Vog
+  :N: Vog;Birdman;;;
+  :PHONE: +4915117272193
+  :END:
+* Birgit Thies
+  :PROPERTIES:
+  :EMAIL: birgit.thies@bayceer.uni-bayreuth.de (INTERNET)
+  :FN: Birgit Thies
+  :N: Thies;Birgit;;;
+  :END:
+* Bjoern Reineking
+  :PROPERTIES:
+  :EMAIL: bjoern.reineking@uni-bayreuth.de
+  :FN: Bjoern Reineking
+  :N: Reineking;Bjoern;;;
+  :END:
+* Björn Dannenmann
+  :PROPERTIES:
+  :EMAIL: bjoerndannenmann@web.de (INTERNET)
+  :FN: Björn Dannenmann
+  :N: Dannenmann;Björn;;;
+  :END:
+* Blacks
+  :PROPERTIES:
+  :FN: ;Blacks;;;
+  :N: ;Blacks;;;
+  :PHONE: +18085511705
+  :END:
+* Bolotina
+  :PROPERTIES:
+  :EMAIL: yulia.bolotina@juliusbaer.com
+  :FN: Bolotina
+  :N: Yulia;Bolotina;;;
+  :END:
+* Boris
+  :PROPERTIES:
+  :FN: Boris
+  :N: ;Boris;;;
+  :PHONE: 016096206200
+  :END:
+* Boris Kilvinger
+  :PROPERTIES:
+  :ADDRESS:  Ulm, DE
+  :FN: Boris Kilvinger
+  :N: Kilvinger;Boris;;;
+  :END:
+* Borizon Kilvinger
+  :PROPERTIES:
+  :EMAIL: boris.kilvinger@web.de
+  :FN: Borizon Kilvinger
+  :N: Kilvinger;Borizon;;;
+  :END:
+* Boylan
+  :PROPERTIES:
+  :EMAIL: Ross.Boylan@ucsf.edu
+  :FN: Boylan
+  :N: Ross;Boylan;;;
+  :END:
+* Brad
+  :PROPERTIES:
+  :FN: ;Brad;;;
+  :N: ;Brad;;;
+  :PHONE: +16032333308
+  :END:
+* Brandon
+  :PROPERTIES:
+  :FN: ;Brandon;;;
+  :N: ;Brandon;;;
+  :PHONE: +18017103217
+  :END:
+* Brandon Xochilt
+  :PROPERTIES:
+  :FN: ;Brandon Xochilt;;;
+  :N: ;Brandon Xochilt;;;
+  :PHONE: +18016459398
+  :END:
+* Brian Oney
+  :PROPERTIES:
+  :EMAIL: zenlines@gmail.com (INTERNET)
+  :FN: Brian Oney
+  :N: Oney;Brian;;;
+  :END:
+* Brunner
+  :PROPERTIES:
+  :EMAIL: Dominik.Brunner@empa.ch
+  :FN: Brunner
+  :N: Dominik;Brunner;;;
+  :END:
+* Bruno Hasler
+  :PROPERTIES:
+  :EMAIL: Bruno.Hasler@sac-cas.ch
+  :FN: Bruno Hasler
+  :N: Hasler;Bruno;;;
+  :END:
+* Bunya Mislimshoeva
+  :PROPERTIES:
+  :EMAIL: bunafsha.mislimshoeva@gmail.com
+  :FN: Bunya Mislimshoeva
+  :N: Mislimshoeva;Bunya;;;
+  :END:
+* Bäckerei Soller Roßbach
+  :PROPERTIES:
+  :EMAIL: info@baeckerei-soller.de (INTERNET)
+  :FN: Bäckerei Soller Roßbach
+  :N: Roßbach;Bäckerei;Soller;;
+  :END:
+* Canan Karakoc
+  :PROPERTIES:
+  :EMAIL: canankarakoc@gmail.com
+  :FN: Canan Karakoc
+  :N: Karakoc;Canan;;;
+  :END:
+* Candace Brooks
+  :PROPERTIES:
+  :EMAIL: c.sunshine7.7@gmail.com
+  :FN: Candace Brooks
+  :N: Brooks;Candace;;;
+  :END:
+* Carl Beierkunlein
+  :PROPERTIES:
+  :EMAIL: carl.beierkuhnlein@uni-bayreuth.de (INTERNET)
+  :FN: Carl Beierkunlein
+  :N: Beierkunlein;Carl;;;
+  :END:
+* Carla (Fabian)
+  :PROPERTIES:
+  :FN: Carla (Fabian)
+  :N: ;Carla (Fabian);;;
+  :PHONE: +41793927161
+  :END:
+* Carlos Dombros
+  :PROPERTIES:
+  :EMAIL: csdenf@yahoo.com.br
+  :FN: Carlos Dombros
+  :N: Dombros;Carlos;;;
+  :END:
+* Caro Meissner
+  :PROPERTIES:
+  :EMAIL: meissner-caro@web.de
+  :FN: Caro Meissner
+  :N: Meissner;Caro;;;
+  :END:
+* Carsten Dormann
+  :PROPERTIES:
+  :EMAIL: carsten.dormann@ufz.de
+  :FN: Carsten Dormann
+  :N: Dormann;Carsten;;;
+  :END:
+* Carsten Nesshoever
+  :PROPERTIES:
+  :EMAIL: carsten.nesshoever@ufz.de (INTERNET)
+  :FN: Carsten Nesshoever
+  :N: Nesshoever;Carsten;;;
+  :END:
+* Carsten Roth
+  :PROPERTIES:
+  :ADDRESS: Apfelbaumstrasse 22, 8050 Zürich, Schweiz
+  :ADDRESS: Elisabethstrasse 17, 66798 Wallerfangen, Deutschland
+  :BDAY: 1988-09-03
+  :EMAIL: eevu2lu@gmail.com
+  :FN: Carsten Roth
+  :N: Roth;Carsten;;;
+  :PHONE: +41762404073
+  :PHONE: +4915730347823
+  :END:
+* Chri SAC
+  :PROPERTIES:
+  :FN: Chri;SAC;;;
+  :FN: Chri;SAC;;;
+  :N: Chri;SAC;;;
+  :PHONE: 12324123
+  :REV: [2018-09-06 Thu 12:12]
+  :UID: pas-id-5B91199600000628
+  :END:
+* Christian B=C3=A4rtsch
+  :PROPERTIES:
+  :EMAIL: ch.baertsch@gmail.com
+  :FN: Christian B=C3=A4rtsch
+  :N: B=C3=A4rtsch;Christian;;;
+  :END:
+* Christian Baertsch
+  :PROPERTIES:
+  :ADDRESS:  , Switzerland
+  :ADDRESS:  , Switzerland
+  :EMAIL: ch.baertsch@gmail.com
+  :FN: Christian Baertsch
+  :N: ;Christian Baertsch;;;
+  :PHONE: +41764325088
+  :PHONE: 3223975862
+  :END:
+* Christian Bärtsch
+  :PROPERTIES:
+  :EMAIL: christian@essento.ch (INTERNET)
+  :FN: Christian Bärtsch
+  :N: Bärtsch;Christian;;;
+  :END:
+* Christian Physik
+  :PROPERTIES:
+  :FN: Christian Physik
+  :N: ;Christian Physik;;;
+  :PHONE: +41764983009
+  :END:
+* Christie Self
+  :PROPERTIES:
+  :FN: Christie Self
+  :N: Self;Christie;;;
+  :PHONE: +14693603461
+  :END:
+* Christine Jeanneret
+  :PROPERTIES:
+  :EMAIL: chregi.j@bluewin.ch
+  :FN: Christine Jeanneret
+  :N: Jeanneret;Christine;;;
+  :END:
+* Christoph Beck
+  :PROPERTIES:
+  :EMAIL: christoph.beck@geo.uni-augsburg.de (INTERNET)
+  :FN: Christoph Beck
+  :N: Beck;Christoph;;;
+  :END:
+* Christopher Conrad
+  :PROPERTIES:
+  :EMAIL: christopher.conrad@uni-wuerzburg.de (INTERNET)
+  :FN: Christopher Conrad
+  :N: Conrad;Christopher;;;
+  :END:
+* Cindy
+  :PROPERTIES:
+  :EMAIL: cindynewburn@hotmail.com
+  :FN: Cindy
+  :N: ;Cindy;;;
+  :END:
+* Clark Ligon
+  :PROPERTIES:
+  :FN: Clark Ligon
+  :N: ;Clark Ligon;;;
+  :PHONE: +41792297822
+  :END:
+* Claudia Livingston
+  :PROPERTIES:
+  :EMAIL: claudia.hottentot@gmail.com (INTERNET)
+  :FN: Claudia Livingston
+  :N: Livingston;Claudia;;;
+  :END:
+* Claudia Mignani
+  :PROPERTIES:
+  :EMAIL: claudia.mignani@gmail.com
+  :FN: Claudia Mignani
+  :N: Mignani;Claudia;;;
+  :END:
+* Claudia R=C3=B6=C3=B6sli
+  :PROPERTIES:
+  :EMAIL: cloedli_ro@hotmail.com
+  :FN: Claudia R=C3=B6=C3=B6sli
+  :N: R=C3=B6=C3=B6sli;Claudia;;;
+  :END:
+* Combox
+  :PROPERTIES:
+  :FN: Combox
+  :N: ;Combox;;;
+  :PHONE: +41794997979
+  :END:
+* Connie
+  :PROPERTIES:
+  :FN: Connie
+  :N: ;Connie;;;
+  :END:
+* Cornelia Schwenk
+  :PROPERTIES:
+  :EMAIL: connys.island@googlemail.com (INTERNET)
+  :FN: Cornelia Schwenk
+  :N: Schwenk;Cornelia;;;
+  :END:
+* Credit
+  :PROPERTIES:
+  :FN: Credit
+  :N: ;Credit;;;
+  :PHONE: *130#
+  :END:
+* DOMEIGNOZ HORTA
+  :PROPERTIES:
+  :EMAIL: luiz.horta@usp.br, luizdhorta@yahoo.com.br (INTERNET)
+  :FN: DOMEIGNOZ HORTA
+  :N: Alberto;DOMEIGNOZ;HORTA, Luiz;;
+  :END:
+* Dad
+  :PROPERTIES:
+  :FN: ;Dad;;;
+  :N: ;Dad;;;
+  :PHONE: +15753749009
+  :END:
+* Dani Holzammer
+  :PROPERTIES:
+  :FN: Dani Holzammer
+  :N: ;Dani Holzammer;;;
+  :PHONE: +491705861949
+  :END:
+* Daniel Hug Neu
+  :PROPERTIES:
+  :FN: Daniel Hug Neu
+  :N: Neu;Daniel;Hug;;
+  :PHONE: +4369915006395
+  :PHONE: +4369915006395
+  :END:
+* Daniel Kachelrie
+  :PROPERTIES:
+  :FN: Daniel Kachelrie
+  :N: ;Daniel Kachelrie;;;
+  :PHONE: +4915121182233
+  :END:
+* Daniel Kachelriess
+  :PROPERTIES:
+  :EMAIL: kachel86@odn.de
+  :FN: Daniel Kachelriess
+  :N: Kachelriess;Daniel;;;
+  :END:
+* Daniel Kretz
+  :PROPERTIES:
+  :EMAIL: danielakretz@googlemail.com (INTERNET)
+  :FN: Daniel Kretz
+  :N: Kretz;Daniel;;;
+  :END:
+* Daniel Thiel
+  :PROPERTIES:
+  :EMAIL: daniel.thiel@uni-bayreuth.de (INTERNET)
+  :FN: Daniel Thiel
+  :N: Thiel;Daniel;;;
+  :END:
+* Daniel Thommen
+  :PROPERTIES:
+  :FN: Daniel Thommen
+  :N: Thommen;Daniel;;;
+  :PHONE: +41786296268
+  :END:
+* Daniel Tudor
+  :PROPERTIES:
+  :EMAIL: daniel.tudor@teralytics.ch
+  :FN: Daniel Tudor
+  :N: Tudor;Daniel;;;
+  :END:
+* Daniel Zuloaga
+  :PROPERTIES:
+  :EMAIL: dmoran_z@hotmail.com (INTERNET)
+  :FN: Daniel Zuloaga
+  :N: Zuloaga;Daniel;;;
+  :END:
+* Daniela Kretz
+  :PROPERTIES:
+  :EMAIL: daniela2cool@hotmail.com
+  :EMAIL: danielakretz@gmail.com
+  :EMAIL: danielakretz@googlemail.com
+  :FN: Daniela Kretz
+  :N: Kretz;Daniela;;;
+  :END:
+* Daniela Wechsler
+  :PROPERTIES:
+  :EMAIL: d.wechsler@wildbieneundpartner.ch (INTERNET)
+  :FN: Daniela Wechsler
+  :N: Wechsler;Daniela;;;
+  :END:
+* David Bott
+  :PROPERTIES:
+  :EMAIL: davidbott@web.de
+  :FN: David Bott
+  :N: Bott;David;;;
+  :END:
+* David Bär
+  :PROPERTIES:
+  :EMAIL: david@essento.ch (INTERNET)
+  :FN: David Bär
+  :N: Bär;David;;;
+  :END:
+* David Giblin
+  :PROPERTIES:
+  :EMAIL: dgiblin@u.washington.edu (INTERNET)
+  :FN: David Giblin
+  :N: Giblin;David;;;
+  :END:
+* David Kienle
+  :PROPERTIES:
+  :EMAIL: david.kienle@WEB.DE
+  :FN: David Kienle
+  :N: Kienle;David;;;
+  :PHONE: 01738144342
+  :END:
+* Dennis Lee Bieber
+  :PROPERTIES:
+  :EMAIL: wlfraed@ix.netcom.com (INTERNET)
+  :FN: Dennis Lee Bieber
+  :N: Bieber;Dennis;Lee;;
+  :END:
+* Diana Mussetti
+  :PROPERTIES:
+  :FN: Diana Mussetti
+  :N: Mussetti;Diana;;;
+  :PHONE: +41795718823
+  :END:
+* Dietmar Schwab
+  :PROPERTIES:
+  :EMAIL: didder77@web.de
+  :FN: Dietmar Schwab
+  :N: Schwab;Dietmar;;;
+  :END:
+* Dominik Brunner Buer
+  :PROPERTIES:
+  :FN: Dominik Brunner Buer
+  :N: ;Dominik Brunner Buer;;;
+  :PHONE: +41587654944
+  :END:
+* Dominik Brunner Buero
+  :PROPERTIES:
+  :FN: Dominik Brunner Buero
+  :N: ;Dominik Brunner Buero;;;
+  :PHONE: +41587654944
+  :END:
+* Dominik Zuhause
+  :PROPERTIES:
+  :FN: Dominik Zuhause
+  :N: ;Dominik Zuhause;;;
+  :PHONE: +41041448601041
+  :END:
+* Donat Gipfelbuch
+  :PROPERTIES:
+  :FN: Donat Gipfelbuch
+  :N: ;Donat Gipfelbuch;;;
+  :PHONE: +41796873838
+  :END:
+* Doris Klein
+  :PROPERTIES:
+  :EMAIL: doris.klein@uni-wuerzburg.de (INTERNET)
+  :FN: Doris Klein
+  :N: Klein;Doris;;;
+  :END:
+* Dr Clark   .
+  :PROPERTIES:
+  :FN: ;Dr Clark;;;.
+  :N: ;Dr Clark;;;.
+  :PHONE: +18013210135
+  :END:
+* Dr. Hauhs
+  :PROPERTIES:
+  :EMAIL: Michael.Hauhs@bayceer.uni-bayreuth.de
+  :FN: Dr. Hauhs
+  :N: Hauhs;Dr.;;;
+  :END:
+* Dustin
+  :PROPERTIES:
+  :FN: ;Dustin;;;
+  :N: ;Dustin;;;
+  :PHONE: +18013890493
+  :END:
+* Eddie
+  :PROPERTIES:
+  :FN: ;Eddie;;;
+  :N: ;Eddie;;;
+  :PHONE: +18178911801
+  :END:
+* Eddie Self
+  :PROPERTIES:
+  :BDAY: 1978-10-16
+  :EMAIL: eddieself16@gmail.com (INTERNET, HOME)
+  :FN: Eddie Self
+  :N: Self;Eddie;;;
+  :END:
+* Edouard Davin
+  :PROPERTIES:
+  :EMAIL: edouard.davin@env.ethz.ch
+  :FN: Edouard Davin
+  :N: Davin;Edouard;;;
+  :END:
+* Elfrieda u Werner Ehemann
+  :PROPERTIES:
+  :FN: Elfrieda u Werner Ehemann
+  :N: ;Elfrieda u Werner Ehemann;;;
+  :PHONE: +4991791419
+  :END:
+* Elfrieda und Werner
+  :PROPERTIES:
+  :FN: ;Elfrieda und Werner;;;
+  :N: ;Elfrieda und Werner;;;
+  :PHONE: +4991791419
+  :END:
+* Elisabeth Thiem
+  :PROPERTIES:
+  :EMAIL: e.t.istunteruns@gmx.de (INTERNET)
+  :FN: Elisabeth Thiem
+  :N: Thiem;Elisabeth;;;
+  :END:
+* Elizabeth LaPoint
+  :PROPERTIES:
+  :EMAIL: elapoint@fs.fed.us (INTERNET)
+  :FN: Elizabeth LaPoint
+  :N: LaPoint;Elizabeth;;;
+  :END:
+* Elke Schaper
+  :PROPERTIES:
+  :EMAIL: e.schaper@carbon-delta.com (INTERNET)
+  :FN: Elke Schaper
+  :N: Schaper;Elke;;;
+  :END:
+* Ellen Gossel
+  :PROPERTIES:
+  :EMAIL: Ellen.Gossel@uni-bayreuth.de
+  :FN: Ellen Gossel
+  :N: Gossel;Ellen;;;
+  :END:
+* Erika Daines
+  :PROPERTIES:
+  :EMAIL: edaines@weber.edu
+  :FN: Erika Daines
+  :N: Daines;Erika;;;
+  :END:
+* Erkan Empa
+  :PROPERTIES:
+  :FN: Erkan Empa
+  :N: ;Erkan Empa;;;
+  :PHONE: +41768175014
+  :END:
+* Erkan empa
+  :PROPERTIES:
+  :FN: Erkan empa
+  :N: ;Erkan empa;;;
+  :PHONE: +41768175014
+  :END:
+* Essento Jana
+  :PROPERTIES:
+  :FN: Essento Jana
+  :N: ;Essento Jana;;;
+  :PHONE: +41796736226
+  :END:
+* Essento Marius
+  :PROPERTIES:
+  :FN: Essento Marius
+  :N: ;Essento Marius;;;
+  :PHONE: +41793699769
+  :END:
+* Essento Salome
+  :PROPERTIES:
+  :FN: Essento Salome
+  :N: Salome;Essento;;;
+  :PHONE: +41792984914
+  :END:
+* Essento Timotheé
+  :PROPERTIES:
+  :FN: Essento Timotheé
+  :N: Timotheé;Essento;;;
+  :PHONE: +41762821351
+  :END:
+* Eugster Werner (werner.eugster@usys.ethz.ch)
+  :PROPERTIES:
+  :EMAIL: werner.eugster@usys.ethz.ch
+  :FN: Eugster Werner (werner.eugster@usys.ethz.ch)
+  :N: (werner.eugster@usys.ethz.ch);Eugster Werner;;;
+  :END:
+* Eva Obermaier
+  :PROPERTIES:
+  :ADDRESS:  Évora, PT
+  :FN: Eva Obermaier
+  :N: Obermaier;Eva;;;
+  :END:
+* Eva Szalay
+  :PROPERTIES:
+  :EMAIL: eszalay@weber.edu (INTERNET)
+  :FN: Eva Szalay
+  :N: Szalay;Eva;;;
+  :END:
+* Eve Tay
+  :PROPERTIES:
+  :EMAIL: evetay2@gmail.com (INTERNET)
+  :FN: Eve Tay
+  :N: Tay;Eve;;;
+  :END:
+* Eyer
+  :PROPERTIES:
+  :EMAIL: simon.eyer@gmail.com (INTERNET)
+  :FN: Eyer
+  :N: Eyer;Simon;;;
+  :END:
+* FUCHS
+  :PROPERTIES:
+  :EMAIL: kathrin-fuchs@gmx.net (INTERNET)
+  :FN: FUCHS
+  :N: FUCHS;Kathrin;;;
+  :END:
+* Fab
+  :PROPERTIES:
+  :FN: Fab
+  :N: ;Fab;;;
+  :END:
+* Fabian Bellamonte
+  :PROPERTIES:
+  :FN: Fabian Bellamonte
+  :N: ;Fabian Bellamonte;;;
+  :PHONE: +41788206017
+  :END:
+* Fabian Schoenenberger
+  :PROPERTIES:
+  :EMAIL: fab.schoenenberger@gmail.com (INTERNET)
+  :FN: Fabian Schoenenberger
+  :N: Schoenenberger;Fabian;;;
+  :END:
+* Fischer Helmut
+  :PROPERTIES:
+  :EMAIL: heli.ro@gmx.net (INTERNET)
+  :FN: Fischer Helmut
+  :N: Helmut;Fischer;;;
+  :END:
+* Florian Arfeuille
+  :PROPERTIES:
+  :FN: Florian Arfeuille
+  :N: ;Florian Arfeuille;;;
+  :PHONE: +41764288525
+  :END:
+* Florian Baertsch
+  :PROPERTIES:
+  :FN: Florian Baertsch
+  :N: Baertsch;Florian;;;
+  :PHONE: +41795189787
+  :END:
+* Florian Schröder
+  :PROPERTIES:
+  :EMAIL: f.schroeder@wildbieneundpartner.ch (INTERNET)
+  :FN: Florian Schröder
+  :N: Schröder;Florian;;;
+  :END:
+* Frank B
+  :PROPERTIES:
+  :EMAIL: frank.breiner@stmail.uni-bayreuth.de
+  :FN: Frank B
+  :N: B;Frank;;;
+  :END:
+* Frank Breiner
+  :PROPERTIES:
+  :EMAIL: s2frbrei@stmail.uni-bayreuth.de (INTERNET)
+  :FN: Frank Breiner
+  :N: Breiner;Frank;;;
+  :END:
+* Frank Breiner C1
+  :PROPERTIES:
+  :FN: Frank Breiner C1
+  :N: ;Frank Breiner C1;;;
+  :PHONE: +41774046201
+  :END:
+* Franz Holzknecht
+  :PROPERTIES:
+  :EMAIL: fholzknecht@gmail.com
+  :FN: Franz Holzknecht
+  :N: ;Franz Holzknecht;;;
+  :PHONE: +41766049640
+  :END:
+* Franz Woodknight AT
+  :PROPERTIES:
+  :FN: Franz Woodknight AT
+  :N: AT;Franz;Woodknight;;
+  :PHONE: +436607611652
+  :END:
+* Franzi
+  :PROPERTIES:
+  :EMAIL: franziska.niemitz@unitybox.de (INTERNET)
+  :FN: Franzi
+  :N: ;Franzi;;;
+  :END:
+* Frau Heinrich
+  :PROPERTIES:
+  :EMAIL: Fakhera.Heinrich@uvw.uni-bayreuth.de (INTERNET)
+  :FN: Frau Heinrich
+  :N: Heinrich;Frau;;;
+  :END:
+* Frauke Kilvinger
+  :PROPERTIES:
+  :EMAIL: frauke.kilvinger@gmail.com
+  :FN: Frauke Kilvinger
+  :N: Kilvinger;Frauke;;;
+  :END:
+* GCE@uni-bayreuth.de
+  :PROPERTIES:
+  :EMAIL: GCE@uni-bayreuth.de
+  :FN: GCE@uni-bayreuth.de
+  :END:
+* GIZH Franz
+  :PROPERTIES:
+  :FN: GIZH Franz
+  :N: Franz;GIZH;;;
+  :PHONE: +41772185784
+  :PHONE: +4915253469203
+  :PHONE: +4915253469203
+  :END:
+* GL
+  :PROPERTIES:
+  :EMAIL: gl@veloblitz.ch (INTERNET)
+  :FN: GL
+  :N: ;GL;;;
+  :END:
+* GUIMARÃES
+  :PROPERTIES:
+  :EMAIL: guimaraes.clau@gmail.com (INTERNET)
+  :FN: GUIMARÃES
+  :N: GUIMARÃES;Claudia;Regina;;
+  :END:
+* GW Walther
+  :PROPERTIES:
+  :EMAIL: Gian-Reto.Walther@uni-bayreuth.de (INTERNET)
+  :FN: GW Walther
+  :N: Walther;GW;;;
+  :END:
+* Geetz Kraps
+  :PROPERTIES:
+  :EMAIL: gytiskrapikas@web.de
+  :FN: Geetz Kraps
+  :N: Kraps;Geetz;;;
+  :END:
+* Gesche Blume-Werry
+  :PROPERTIES:
+  :EMAIL: g.blumewerry@googlemail.com
+  :FN: Gesche Blume-Werry
+  :N: Blume-Werry;Gesche;;;
+  :END:
+* Gian Luca Mussetti
+  :PROPERTIES:
+  :FN: Gian Luca Mussetti
+  :N: Mussetti;Gian;Luca;;
+  :PHONE: +41762422201
+  :END:
+* Gianluca Mussetti
+  :PROPERTIES:
+  :EMAIL: mussetti.gianluca@gmail.com (INTERNET)
+  :FN: Gianluca Mussetti
+  :N: Mussetti;Gianluca;;;
+  :END:
+* Glen Edwards
+  :PROPERTIES:
+  :FN: ;Glen Edwards;;;
+  :N: ;Glen Edwards;;;
+  :PHONE: +19077486003
+  :END:
+* Gogo Goshev
+  :PROPERTIES:
+  :FN: Gogo Goshev
+  :N: Goshev;Gogo;;;
+  :END:
+* Golnoosh AVETH
+  :PROPERTIES:
+  :FN: Golnoosh AVETH
+  :N: ;Golnoosh AVETH;;;
+  :PHONE: +41774303426
+  :END:
+* Grace Ure-a
+  :PROPERTIES:
+  :EMAIL: graceug22@yahoo.com (INTERNET)
+  :FN: Grace Ure-a
+  :N: Ure-a;Grace;;;
+  :END:
+* Grüthof
+  :PROPERTIES:
+  :FN: Grüthof
+  :N: ;Grüthof;;;
+  :PHONE: +41523014508
+  :END:
+* Gullydeckel Peter Stamm
+  :PROPERTIES:
+  :FN: Gullydeckel Peter Stamm
+  :N: Stamm;Gullydeckel;Peter;;
+  :PHONE: 0796753328
+  :PHONE: 0796753328
+  :END:
+* Hampus Cederholm
+  :PROPERTIES:
+  :EMAIL: hampus@furbergsnowboards.com
+  :FN: Hampus Cederholm
+  :N: Cederholm;Hampus;;;
+  :END:
+* Hanmes Müller
+  :PROPERTIES:
+  :FN: Hanmes Müller
+  :N: ;Hanmes Müller;;;
+  :PHONE: +4915776810743
+  :END:
+* Hanna
+  :PROPERTIES:
+  :FN: Hanna
+  :N: ;Hanna;;;
+  :PHONE: 017683035715
+  :END:
+* Hanna Skiba
+  :PROPERTIES:
+  :FN: Hanna Skiba
+  :N: Skiba;Hanna;;;
+  :PHONE: +4917683035715
+  :END:
+* Hannes Mueller
+  :PROPERTIES:
+  :EMAIL: Hannes_Mueller1@gmx.net
+  :FN: Hannes Mueller
+  :N: Mueller;Hannes;;;
+  :END:
+* Hardy Schulz
+  :PROPERTIES:
+  :EMAIL: hardy.schulz@gmail.com
+  :FN: Hardy Schulz
+  :N: Schulz;Hardy;;;
+  :END:
+* Heather Davidson
+  :PROPERTIES:
+  :EMAIL: davidson.heather@gmail.com (INTERNET)
+  :FN: Heather Davidson
+  :N: Davidson;Heather;;;
+  :END:
+* Heinz Skiba
+  :PROPERTIES:
+  :FN: ;Heinz Skiba;;;
+  :N: ;Heinz Skiba;;;
+  :PHONE: +491727906
+  :END:
+* Heitmann-Schwarz Dämmtechnik
+  :PROPERTIES:
+  :EMAIL: info@heitmann-schwarz.de (INTERNET)
+  :FN: Heitmann-Schwarz Dämmtechnik
+  :N: Dämmtechnik;Heitmann-Schwarz;;;
+  :END:
+* Helga Simper
+  :PROPERTIES:
+  :EMAIL: helga.simper@superkabel.de (INTERNET)
+  :FN: Helga Simper
+  :N: Simper;Helga;;;
+  :END:
+* Henne
+  :PROPERTIES:
+  :EMAIL: Stephan.Henne@empa.ch
+  :FN: Henne
+  :N: Stephan;Henne;;;
+  :END:
+* Herr Narius
+  :PROPERTIES:
+  :EMAIL: Andreas.Narius@uvw.uni-bayreuth.de (INTERNET)
+  :FN: Herr Narius
+  :N: Narius;Herr;;;
+  :END:
+* Heubi Beat
+  :PROPERTIES:
+  :EMAIL: Beat.Heubi@alfred-mueller.ch
+  :FN: Heubi Beat
+  :N: Beat;Heubi;;;
+  :END:
+* Hirt Marika
+  :PROPERTIES:
+  :EMAIL: Marika.Hirt@wincasa.ch
+  :FN: Hirt Marika
+  :N: Marika;Hirt;;;
+  :END:
+* Holger Dempe
+  :PROPERTIES:
+  :FN: ;Holger Dempe;;;
+  :N: ;Holger Dempe;;;
+  :PHONE: +491607658
+  :END:
+* Hopfi
+  :PROPERTIES:
+  :EMAIL: sebastian_hopfenmueller@web.de (INTERNET)
+  :FN: Hopfi
+  :N: ;Hopfi;;;
+  :END:
+* Hotline CH
+  :PROPERTIES:
+  :FN: Hotline CH
+  :N: ;Hotline CH;;;
+  :PHONE: +41800151728
+  :END:
+* Hotline INT
+  :PROPERTIES:
+  :FN: Hotline INT
+  :N: ;Hotline INT;;;
+  :PHONE: +41582628399
+  :END:
+* IBV Christine Gerber
+  :PROPERTIES:
+  :FN: IBV Christine Gerber
+  :N: Gerber;IBV;Christine;;
+  :PHONE: +41795742966
+  :END:
+* IBV Sepp Inauen
+  :PROPERTIES:
+  :FN: IBV Sepp Inauen
+  :N: ;IBV Sepp Inauen;;;
+  :PHONE: +41793975311
+  :END:
+* ISRSE 2011 Managers
+  :PROPERTIES:
+  :EMAIL: isrse34@arinex.com.au (INTERNET)
+  :FN: ISRSE 2011 Managers
+  :N: Managers;ISRSE;2011;;
+  :END:
+* Info 1818
+  :PROPERTIES:
+  :FN: Info 1818
+  :N: ;Info 1818;;;
+  :PHONE: 1818
+  :END:
+* Ingeborg Vogler
+  :PROPERTIES:
+  :EMAIL: ingeborg.vogler@uni-bayreuth.de (INTERNET)
+  :FN: Ingeborg Vogler
+  :N: Vogler;Ingeborg;;;
+  :END:
+* Institute for Applied Remote Sensing
+  :PROPERTIES:
+  :EMAIL: remote.sensing@eurac.edu (INTERNET)
+  :FN: Institute for Applied Remote Sensing
+  :N: Sensing;Institute;for Applied Remote;;
+  :END:
+* Ira Edwards
+  :PROPERTIES:
+  :EMAIL: ira_j_e@hotmail.com
+  :FN: Ira Edwards
+  :N: Edwards;Ira;;;
+  :END:
+* Iris Roth=C3=A4usler
+  :PROPERTIES:
+  :EMAIL: iris.rothaeusler@gmx.de
+  :FN: Iris Roth=C3=A4usler
+  :N: Roth=C3=A4usler;Iris;;;
+  :END:
+* Isabel O'Connor
+  :PROPERTIES:
+  :EMAIL: ioconnor@eaternity.ch
+  :FN: Isabel O'Connor
+  :N: O'Connor;Isabel;;;
+  :END:
+* J Malpas
+  :PROPERTIES:
+  :EMAIL: jmalpas@calflora.org (INTERNET)
+  :FN: J Malpas
+  :N: Malpas;J;;;
+  :END:
+* Jan Blanke
+  :PROPERTIES:
+  :EMAIL: jan.blanke@gmx.de (INTERNET)
+  :FN: Jan Blanke
+  :N: Blanke;Jan;;;
+  :END:
+* Jana
+  :PROPERTIES:
+  :FN: Jana
+  :N: ;Jana;;;
+  :PHONE: 01783362510
+  :END:
+* Jana Edlinger
+  :PROPERTIES:
+  :EMAIL: jana.edlinger@web.de
+  :FN: Jana Edlinger
+  :N: Edlinger;Jana;;;
+  :END:
+* Jana Junghardt
+  :PROPERTIES:
+  :EMAIL: janajunghardt@gmail.com (INTERNET)
+  :FN: Jana Junghardt
+  :N: Junghardt;Jana;;;
+  :END:
+* Janert
+  :PROPERTIES:
+  :EMAIL: janert@stadt-uetersen.de (INTERNET)
+  :FN: Janert
+  :N: Janert;Anke;;;
+  :END:
+* Jen
+  :PROPERTIES:
+  :EMAIL: jenhemmert@yahoo.com (INTERNET)
+  :FN: Jen
+  :N: ;Jen;;;
+  :END:
+* Jen Hemmert
+  :PROPERTIES:
+  :FN: ;Jen Hemmert;;;
+  :N: ;Jen Hemmert;;;
+  :PHONE: +19376097800
+  :END:
+* Jeremy
+  :PROPERTIES:
+  :EMAIL: adidas_hoch@yahoo.com
+  :FN: Jeremy
+  :N: ;Jeremy;;;
+  :END:
+* Joachim Rathmann
+  :PROPERTIES:
+  :EMAIL: joachim.rathmann@geo.uni-augsburg.de (INTERNET)
+  :FN: Joachim Rathmann
+  :N: Rathmann;Joachim;;;
+  :END:
+* Johann Müller
+  :PROPERTIES:
+  :EMAIL: Johann.Mueller@geo.uzh.ch
+  :FN: Johann Müller
+  :N: ;Johann Müller;;;
+  :PHONE: +41786165119
+  :END:
+* Johannes Foerster
+  :PROPERTIES:
+  :EMAIL: jo.foerster@gmx.net
+  :FN: Johannes Foerster
+  :N: Foerster;Johannes;;;
+  :END:
+* Johannes Ingrisch
+  :PROPERTIES:
+  :EMAIL: johannes.ingrisch@googlemail.com (INTERNET)
+  :FN: Johannes Ingrisch
+  :N: Ingrisch;Johannes;;;
+  :END:
+* Johannes Kraus
+  :PROPERTIES:
+  :EMAIL: kraus01@gmail.com (INTERNET)
+  :FN: Johannes Kraus
+  :N: Kraus;Johannes;;;
+  :END:
+* Johannes Vogel
+  :PROPERTIES:
+  :FN: Johannes Vogel
+  :N: Vogel;Johannes;;;
+  :PHONE: +4915207405498
+  :END:
+* John Keffler
+  :PROPERTIES:
+  :EMAIL: phantomsbb@gmail.com
+  :FN: John Keffler
+  :N: Keffler;John;;;
+  :END:
+* Johnny Ingrisch
+  :PROPERTIES:
+  :FN: ;Johnny Ingrisch;;;
+  :N: ;Johnny Ingrisch;;;
+  :PHONE: +49176811189
+  :END:
+* Jon Clark
+  :PROPERTIES:
+  :EMAIL: jclark1@weber.edu (INTERNET)
+  :FN: Jon Clark
+  :N: Clark;Jon;;;
+  :END:
+* Jonathan Stone
+  :PROPERTIES:
+  :EMAIL: jks.lwa@googlemail.com (INTERNET)
+  :FN: Jonathan Stone
+  :N: Stone;Jonathan;;;
+  :END:
+* Juanfernando Angel
+  :PROPERTIES:
+  :FN: Juanfernando Angel
+  :N: Angel;Juanfernando;;;
+  :END:
+* Jucundus Jacobeit
+  :PROPERTIES:
+  :EMAIL: jucundus.jacobeit@geo.uni-augsburg.de
+  :FN: Jucundus Jacobeit
+  :N: Jacobeit;Jucundus;;;
+  :END:
+* Judith
+  :PROPERTIES:
+  :FN: ;Judith;;;
+  :N: ;Judith;;;
+  :PHONE: +49172459598
+  :END:
+* Judith Reise
+  :PROPERTIES:
+  :EMAIL: ju.fu@gmx.de
+  :FN: Judith Reise
+  :N: Reise;Judith;;;
+  :END:
+* Judy Reise
+  :PROPERTIES:
+  :FN: ;Judy Reise;;;
+  :N: ;Judy Reise;;;
+  :PHONE: +491511445
+  :END:
+* Juergen Kreyling
+  :PROPERTIES:
+  :EMAIL: juergen.kreyling@uni-bayreuth.de
+  :FN: Juergen Kreyling
+  :N: Kreyling;Juergen;;;
+  :END:
+* Julian Zeidler
+  :PROPERTIES:
+  :FN: Julian Zeidler
+  :N: ;Julian Zeidler;;;
+  :PHONE: +4917620437872
+  :END:
+* Julien Anet
+  :PROPERTIES:
+  :FN: Julien Anet
+  :N: Anet;Julien;;;
+  :PHONE: +41786112326
+  :END:
+* Julien Haber
+  :PROPERTIES:
+  :FN: ;Julien Haber;;;
+  :N: ;Julien Haber;;;
+  :PHONE: +491762352
+  :END:
+* Julien Haber CH
+  :PROPERTIES:
+  :FN: Julien Haber CH
+  :N: ;Julien Haber CH;;;
+  :PHONE: +41774358857
+  :END:
+* K O
+  :PROPERTIES:
+  :FN: K O
+  :N: O;K;;;
+  :PHONE: +13852059387
+  :END:
+* KOHNERT
+  :PROPERTIES:
+  :EMAIL: katrin_kohnert@t-online.de (INTERNET)
+  :FN: KOHNERT
+  :N: KOHNERT;Katrin;;;
+  :END:
+* KREIDENWEIS
+  :PROPERTIES:
+  :EMAIL: ulrich.kreidenweis@gmx.de (INTERNET)
+  :FN: KREIDENWEIS
+  :N: KREIDENWEIS;Ulrich;;;
+  :END:
+* Kara Edwards
+  :PROPERTIES:
+  :EMAIL: karadenise@hotmail.com (INTERNET)
+  :FN: Kara Edwards
+  :N: Edwards;Kara;;;
+  :END:
+* Kara cell
+  :PROPERTIES:
+  :FN: ;Kara cell;;;
+  :N: ;Kara cell;;;
+  :PHONE: +19076448585
+  :END:
+* Kaspar Kreislauf.bio
+  :PROPERTIES:
+  :FN: Kaspar Kreislauf.bio
+  :N: ;Kaspar Kreislauf.bio;;;
+  :PHONE: +41795559907
+  :END:
+* Katharina May
+  :PROPERTIES:
+  :EMAIL: may.katharina@googlemail.com
+  :FN: Katharina May
+  :N: May;Katharina;;;
+  :END:
+* Kathleen Oney
+  :PROPERTIES:
+  :EMAIL: koney5188@yahoo.com
+  :FN: Kathleen Oney
+  :N: Oney;Kathleen;;;
+  :END:
+* Kenna
+  :PROPERTIES:
+  :FN: Kenna
+  :N: ;Kenna;;;
+  :PHONE: +41767405748
+  :END:
+* Kenna Oney
+  :PROPERTIES:
+  :FN: Kenna Oney
+  :N: Oney;Kenna;;;
+  :END:
+* Kevin H=C3=BCrlimann
+  :PROPERTIES:
+  :EMAIL: info@klimastiftung.ch
+  :FN: Kevin H=C3=BCrlimann
+  :N: H=C3=BCrlimann;Kevin;;;
+  :END:
+* Klara Dolos
+  :PROPERTIES:
+  :EMAIL: klara.dolos@uni-bayreuth.de (INTERNET)
+  :FN: Klara Dolos
+  :N: Dolos;Klara;;;
+  :END:
+* Klaus Eisentraut
+  :PROPERTIES:
+  :EMAIL: zauberklaus@fsmpi.uni-bayreuth.de (INTERNET)
+  :FN: Klaus Eisentraut
+  :N: Eisentraut;Klaus;;;
+  :END:
+* Klimastiftung
+  :PROPERTIES:
+  :FN: Klimastiftung
+  :N: ;Klimastiftung;;;
+  :PHONE: +41432851139
+  :END:
+* Klimastiftung Herr Eckert Swiss Re
+  :PROPERTIES:
+  :FN: Klimastiftung Herr Eckert Swiss Re
+  :N: Re;Klimastiftung Herr Eckert;Swiss;;
+  :PHONE: +41432854349
+  :END:
+* Koellner
+  :PROPERTIES:
+  :EMAIL: thomas.koellner@uni-bayreuth.de (INTERNET)
+  :FN: Koellner
+  :N: ;Koellner;;;
+  :END:
+* Koko
+  :PROPERTIES:
+  :FN: Koko
+  :N: ;Koko;;;
+  :PHONE: +491777767380
+  :END:
+* Koko Go
+  :PROPERTIES:
+  :FN: Koko Go
+  :N: Go;Koko;;;
+  :END:
+* Kolten Kroeger
+  :PROPERTIES:
+  :FN: Kolten Kroeger
+  :N: Kroeger;Kolten;;;
+  :PHONE: +18015580822
+  :END:
+* Kontaktaufnahme Wincasa AG
+  :PROPERTIES:
+  :EMAIL: Seraina.frei@wincasa.ch
+  :FN: Kontaktaufnahme Wincasa AG
+  :N: AG;Kontaktaufnahme Wincasa;;;
+  :END:
+* Kostadin Goshev
+  :PROPERTIES:
+  :FN: Kostadin Goshev
+  :N: ;Kostadin Goshev;;;
+  :PHONE: +4917674766191
+  :END:
+* Kostadin Gosheva
+  :PROPERTIES:
+  :FN: Kostadin Gosheva
+  :N: ;Kostadin Gosheva;;;
+  :PHONE: +4917674766191
+  :END:
+* Kristi
+  :PROPERTIES:
+  :EMAIL: kristilou2001@yahoo.com (INTERNET)
+  :FN: Kristi
+  :N: ;Kristi;;;
+  :END:
+* Kristi Lyn Silva
+  :PROPERTIES:
+  :ADDRESS:  Roseville, CA, US
+  :BDAY: Aug 1
+  :FN: Kristi Lyn Silva
+  :N: Silva;Kristi;Lyn;;
+  :END:
+* LEE
+  :PROPERTIES:
+  :EMAIL: hrlee1202@gmail.com (INTERNET)
+  :FN: LEE
+  :N: LEE;Heera;;;
+  :END:
+* Leila GCE
+  :PROPERTIES:
+  :FN: Leila GCE
+  :N: GCE;Leila;;;
+  :PHONE: +4916096236888
+  :END:
+* Lena Pieper
+  :PROPERTIES:
+  :EMAIL: Lena_Pieper@gmx.de
+  :FN: Lena Pieper
+  :N: Pieper;Lena;;;
+  :END:
+* Lento Empa
+  :PROPERTIES:
+  :FN: Lento Empa
+  :N: Empa;Lento;;;
+  :PHONE: +41789178121
+  :END:
+* Lili Ilieva
+  :PROPERTIES:
+  :EMAIL: lili.ilieva@gmail.com (INTERNET)
+  :FN: Lili Ilieva
+  :N: Ilieva;Lili;;;
+  :END:
+* Lilith Epperlein
+  :PROPERTIES:
+  :EMAIL: sweelith@gmx.de (INTERNET)
+  :FN: Lilith Epperlein
+  :N: Epperlein;Lilith;;;
+  :END:
+* Linda
+  :PROPERTIES:
+  :FN: ;Linda;;;
+  :N: ;Linda;;;
+  :PHONE: +49173618582
+  :END:
+* Linda Bastek
+  :PROPERTIES:
+  :EMAIL: linda.bastek@yahoo.de (INTERNET)
+  :FN: Linda Bastek
+  :N: Bastek;Linda;;;
+  :END:
+* Lisa Robinson
+  :PROPERTIES:
+  :FN: Lisa Robinson
+  :N: Robinson;Lisa;;;
+  :PHONE: +18124985438
+  :END:
+* Lorica Oli
+  :PROPERTIES:
+  :FN: Lorica Oli
+  :N: Oli;Lorica;;;
+  :PHONE: +41788669848
+  :PHONE: +41795588987
+  :END:
+* Lorica/RestEssBar Anna
+  :PROPERTIES:
+  :FN: Lorica/RestEssBar Anna
+  :N: Anna;Lorica/RestEssBar;;;
+  :PHONE: +41787538582
+  :END:
+* Lotte von Stahl
+  :PROPERTIES:
+  :FN: Lotte von Stahl
+  :N: Stahl;Lotte;von;;
+  :PHONE: +41764601979
+  :END:
+* Luiz Domeignoz Horta
+  :PROPERTIES:
+  :EMAIL: luizdomeignoz@gmail.com (INTERNET)
+  :FN: Luiz Domeignoz Horta
+  :N: Horta;Luiz Domeignoz;;;
+  :END:
+* Lukas Schwager
+  :PROPERTIES:
+  :FN: Lukas Schwager
+  :N: Schwager;Lukas;;;
+  :PHONE: +41795778836
+  :END:
+* Lydia Peddoth
+  :PROPERTIES:
+  :FN: Lydia Peddoth
+  :N: ;Lydia Peddoth;;;
+  :PHONE: +393335990696
+  :END:
+* Lynn
+  :PROPERTIES:
+  :FN: ;Lynn;;;
+  :N: ;Lynn;;;
+  :PHONE: +18013890887
+  :END:
+* M. Yousoufian
+  :PROPERTIES:
+  :EMAIL: myousouf@u.washington.edu (INTERNET)
+  :FN: M. Yousoufian
+  :N: Yousoufian;M.;;;
+  :END:
+* MOELLER
+  :PROPERTIES:
+  :EMAIL: philipp@moeller-network-services.de (INTERNET)
+  :FN: MOELLER
+  :N: MOELLER;Philipp;;;
+  :END:
+* MOGHADAS
+  :PROPERTIES:
+  :EMAIL: armaghan.moghadas@gmail.com (INTERNET)
+  :FN: MOGHADAS
+  :N: MOGHADAS;Armaghan;;;
+  :END:
+* Maddin
+  :PROPERTIES:
+  :EMAIL: marthank31@googlemail.com (INTERNET)
+  :FN: Maddin
+  :N: ;Maddin;;;
+  :END:
+* Maltauro Silvia
+  :PROPERTIES:
+  :EMAIL: silvia.maltauro@eurac.edu (INTERNET)
+  :FN: Maltauro Silvia
+  :N: Silvia;Maltauro;;;
+  :END:
+* Manuel Klarmann
+  :PROPERTIES:
+  :EMAIL: mklarmann@eaternity.ch (INTERNET)
+  :FN: Manuel Klarmann
+  :N: Klarmann;Manuel;;;
+  :END:
+* Manuel Steinbauer
+  :PROPERTIES:
+  :EMAIL: Manuel.Steinbauer@uni-bayreuth.de (INTERNET)
+  :FN: Manuel Steinbauer
+  :N: Steinbauer;Manuel;;;
+  :END:
+* Mara Fidanza
+  :PROPERTIES:
+  :EMAIL: info@atupri.ch
+  :FN: Mara Fidanza
+  :N: Fidanza;Mara;;;
+  :END:
+* Marcello Petitta
+  :PROPERTIES:
+  :FN: Marcello Petitta
+  :N: ;Marcello Petitta;;;
+  :PHONE: +393284615055
+  :END:
+* Marco Eichmann
+  :PROPERTIES:
+  :EMAIL: Marco.Eichmann@check24.de
+  :FN: Marco Eichmann
+  :N: Eichmann;Marco;;;
+  :END:
+* Maria Ligon-Auer
+  :PROPERTIES:
+  :FN: Maria Ligon-Auer
+  :N: ;Maria Ligon-Auer;;;
+  :PHONE: +41765744986
+  :END:
+* Marilyn Oney
+  :PROPERTIES:
+  :EMAIL: marilynoney@yahoo.com (INTERNET)
+  :FN: Marilyn Oney
+  :N: Oney;Marilyn;;;
+  :END:
+* Mark
+  :PROPERTIES:
+  :FN: ;Mark
+  :N: ;Mark;;;
+  :PHONE: +15054473122
+  :END:
+* Mark Aragon
+  :PROPERTIES:
+  :FN: Mark Aragon
+  :N: ;Mark Aragon;;;
+  :PHONE: 5752174853
+  :END:
+* Markus Leuenberger
+  :PROPERTIES:
+  :EMAIL: leuenberger@climate.unibe.ch
+  :FN: Markus Leuenberger
+  :N: Leuenberger;Markus;;;
+  :END:
+* Markus Mangold
+  :PROPERTIES:
+  :FN: Markus Mangold
+  :N: ;Markus Mangold;;;
+  :PHONE: +41765752208
+  :END:
+* Marlen Weitzel
+  :PROPERTIES:
+  :EMAIL: marlenweitzel@gmail.com (INTERNET)
+  :FN: Marlen Weitzel
+  :N: Weitzel;Marlen;;;
+  :END:
+* Martin Daehler
+  :PROPERTIES:
+  :EMAIL: martin.daehler@gmail.com
+  :FN: Martin Daehler
+  :N: Daehler;Martin;;;
+  :END:
+* Martin Danner
+  :PROPERTIES:
+  :FN: Martin Danner
+  :N: ;Martin Danner;;;
+  :PHONE: +41762371182
+  :END:
+* Martin Leiser
+  :PROPERTIES:
+  :EMAIL: martin.leiser@gmx.ch (INTERNET)
+  :FN: Martin Leiser
+  :N: Leiser;Martin;;;
+  :END:
+* Martin Lohmann AVETH
+  :PROPERTIES:
+  :FN: Martin Lohmann AVETH
+  :N: ;Martin Lohmann AVETH;;;
+  :PHONE: +41041786140189
+  :END:
+* Martin Vollmer E
+  :PROPERTIES:
+  :FN: Martin Vollmer E
+  :N: ;Martin Vollmer E;;;
+  :PHONE: +41767602023
+  :END:
+* Martin Wegmann
+  :PROPERTIES:
+  :EMAIL: martin.wegmann@uni-wuerzburg.de (INTERNET)
+  :FN: Martin Wegmann
+  :N: Wegmann;Martin;;;
+  :END:
+* Mary
+  :PROPERTIES:
+  :FN: ;Mary;;;
+  :N: ;Mary;;;
+  :PHONE: +17704015801
+  :END:
+* Mary Kay
+  :PROPERTIES:
+  :EMAIL: Mary.Kay@humboldt.edu (INTERNET)
+  :EMAIL: mhk888@gmail.com (INTERNET, HOME)
+  :FN: Mary Kay
+  :N: Kay;Mary;;;
+  :END:
+* Mary Nimphius
+  :PROPERTIES:
+  :EMAIL: mnimph6654@aol.com
+  :FN: Mary Nimphius
+  :N: Nimphius;Mary;;;
+  :END:
+* Mathias Fürer
+  :PROPERTIES:
+  :EMAIL: mathias.fuerer@gmail.com (INTERNET)
+  :FN: Mathias Fürer
+  :N: Fürer;Mathias;;;
+  :END:
+* Mathias Fürer Vipass
+  :PROPERTIES:
+  :FN: Mathias Fürer Vipass
+  :N: Vipass;Mathias;Fürer;;
+  :PHONE: +41764177193
+  :END:
+* Matilde Moreano
+  :PROPERTIES:
+  :EMAIL: siosai@yahoo.com (INTERNET)
+  :FN: Matilde Moreano
+  :N: Moreano;Matilde;;;
+  :END:
+* Matthias Grawehr
+  :PROPERTIES:
+  :ADDRESS:  , Switzerland
+  :ADDRESS: Lehn 299, 9402 , St.Gallen, Schweiz
+  :EMAIL: matthias@essento.ch
+  :FN: Matthias Grawehr
+  :N: ;Matthias Grawehr;;;
+  :PHONE: +41786940253
+  :PHONE: +41786940253
+  :END:
+* Matthias Schroeer
+  :PROPERTIES:
+  :EMAIL: matthias.schroeer@me.com
+  :FN: Matthias Schroeer
+  :N: Schroeer;Matthias;;;
+  :END:
+* Matthias Schröer
+  :PROPERTIES:
+  :FN: Matthias Schröer
+  :N: ;Matthias Schröer;;;
+  :PHONE: +41799595850
+  :END:
+* Mattiu Cathomas
+  :PROPERTIES:
+  :EMAIL: mattiu96@gmx.ch
+  :FN: Mattiu Cathomas
+  :N: Cathomas;Mattiu;;;
+  :END:
+* Mauro Soregaroli
+  :PROPERTIES:
+  :EMAIL: mauro.soregaroli@gmail.com
+  :FN: Mauro Soregaroli
+  :N: Soregaroli;Mauro;;;
+  :END:
+* Mckenna Oney
+  :PROPERTIES:
+  :EMAIL: money6840@gmail.com (INTERNET)
+  :FN: Mckenna Oney
+  :N: Oney;Mckenna;;;
+  :END:
+* Meteo
+  :PROPERTIES:
+  :FN: Meteo
+  :N: ;Meteo;;;
+  :PHONE: 162
+  :END:
+* Micha GEO EAWAG
+  :PROPERTIES:
+  :FN: Micha GEO EAWAG
+  :N: ;Micha GEO EAWAG;;;
+  :PHONE: +41774483669
+  :END:
+* Michael Empa
+  :PROPERTIES:
+  :FN: Michael Empa
+  :N: ;Michael Empa;;;
+  :PHONE: 0789224344
+  :END:
+* Michael Hauhs
+  :PROPERTIES:
+  :EMAIL: michael.hauhs@uni-bayreuth.de (INTERNET)
+  :FN: Michael Hauhs
+  :N: Hauhs;Michael;;;
+  :END:
+* Michael Schwarz
+  :PROPERTIES:
+  :EMAIL: michael.schwarz@stmail.uni-bayreuth.de
+  :FN: Michael Schwarz
+  :N: Schwarz;Michael;;;
+  :END:
+* Michele De Rosa
+  :PROPERTIES:
+  :EMAIL: michele.derosa@bonsai.uno
+  :FN: Michele De Rosa
+  :N: Rosa;Michele De;;;
+  :END:
+* Michi Soller Essento
+  :PROPERTIES:
+  :FN: Michi Soller Essento
+  :N: ;Michi Soller Essento;;;
+  :PHONE: +41764120543
+  :END:
+* Michkel
+  :PROPERTIES:
+  :FN: ;Michkel;;;
+  :N: ;Michkel;;;
+  :PHONE: +49176273331
+  :END:
+* Mihkel Ewald
+  :PROPERTIES:
+  :EMAIL: emichael@gmx.de (INTERNET)
+  :FN: Mihkel Ewald
+  :N: Ewald;Mihkel;;;
+  :END:
+* Mina Gloor
+  :PROPERTIES:
+  :EMAIL: mina_gloor@hotmail.ch (INTERNET)
+  :FN: Mina Gloor
+  :N: Gloor;Mina;;;
+  :END:
+* Mirjana Bevanda
+  :PROPERTIES:
+  :EMAIL: mirjana.bevanda@uni-bayreuth.de (INTERNET)
+  :FN: Mirjana Bevanda
+  :N: Bevanda;Mirjana;;;
+  :END:
+* Mom
+  :PROPERTIES:
+  :FN: ;Mom;;;
+  :N: ;Mom;;;
+  :PHONE: +18018146104
+  :END:
+* Mom CH -Other phone
+  :PROPERTIES:
+  :FN: Mom CH -Other phone
+  :N: phone;Mom CH;-Other;;
+  :PHONE: +41774806657
+  :END:
+* Mónica Tandem
+  :PROPERTIES:
+  :FN: Mónica Tandem
+  :N: Tandem;Mónica;;;
+  :PHONE: +41774684236
+  :END:
+* Nadia Kaiun
+  :PROPERTIES:
+  :EMAIL: kn.nadegda@gmail.com (INTERNET)
+  :FN: Nadia Kaiun
+  :N: Kaiun;Nadia;;;
+  :END:
+* Nasi Gosheva
+  :PROPERTIES:
+  :EMAIL: nasigogo@gmail.com (INTERNET)
+  :FN: Nasi Gosheva
+  :N: Gosheva;Nasi;;;
+  :END:
+* Nichole Pow
+  :PROPERTIES:
+  :FN: ;Nichole Pow;;;
+  :N: ;Nichole Pow;;;
+  :PHONE: +18016684448
+  :END:
+* Nico M=C3=B6lg
+  :PROPERTIES:
+  :EMAIL: nico_moelg@yahoo.de
+  :FN: Nico M=C3=B6lg
+  :N: M=C3=B6lg;Nico;;;
+  :END:
+* Nico Moelg AT
+  :PROPERTIES:
+  :FN: Nico Moelg AT
+  :N: ;Nico Moelg AT;;;
+  :PHONE: +436504832168
+  :END:
+* Nico Moelg CH
+  :PROPERTIES:
+  :FN: Nico Moelg CH
+  :N: ;Nico Moelg CH;;;
+  :PHONE: +41762378816
+  :END:
+* Nico Moelg Oeste
+  :PROPERTIES:
+  :FN: Nico Moelg Oeste
+  :N: ;Nico Moelg Oeste;;;
+  :PHONE: +436504832168
+  :END:
+* Nico Mölg
+  :PROPERTIES:
+  :EMAIL: nico.moelg@geo.uzh.ch (INTERNET)
+  :FN: Nico Mölg
+  :N: Mölg;Nico;;;
+  :END:
+* Nicolas Gruber
+  :PROPERTIES:
+  :EMAIL: nicolas.gruber@env.ethz.ch (INTERNET)
+  :FN: Nicolas Gruber
+  :N: Gruber;Nicolas;;;
+  :END:
+* Nils Tjaden
+  :PROPERTIES:
+  :EMAIL: nils.tjaden@gmx.de (INTERNET)
+  :FN: Nils Tjaden
+  :N: Tjaden;Nils;;;
+  :END:
+* Nils.Tjaden@stmail.uni-bayreuth.de
+  :PROPERTIES:
+  :EMAIL: Nils.Tjaden@stmail.uni-bayreuth.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* Nina Buchmann
+  :PROPERTIES:
+  :EMAIL: nina.buchmann@ipw.agrl.ethz.ch
+  :FN: Nina Buchmann
+  :N: Buchmann;Nina;;;
+  :END:
+* Noam Spanish
+  :PROPERTIES:
+  :FN: Noam Spanish
+  :N: ;Noam Spanish;;;
+  :PHONE: 0765682069
+  :END:
+* None
+  :PROPERTIES:
+  :EMAIL: senn-probst@bluewin.ch
+  :END:
+* Oggi Wegmann
+  :PROPERTIES:
+  :FN: ;Oggi Wegmann;;;
+  :N: ;Oggi Wegmann;;;
+  :PHONE: +49175209172
+  :END:
+* Olaide Nojeem Ekeolere
+  :PROPERTIES:
+  :EMAIL: iamjavademon@gmail.com (INTERNET)
+  :FN: Olaide Nojeem Ekeolere
+  :N: Ekeolere;Olaide;Nojeem;;
+  :END:
+* Oliphant
+  :PROPERTIES:
+  :EMAIL: Jim.Oliphant@ars.usda.gov (INTERNET)
+  :FN: Oliphant
+  :N: Oliphant;Jim;;;
+  :END:
+* Pascal Burkhalter
+  :PROPERTIES:
+  :EMAIL: p.burkhaltergym@gmail.com
+  :FN: Pascal Burkhalter
+  :N: Burkhalter;Pascal;;;
+  :END:
+* Pascal Butti
+  :PROPERTIES:
+  :FN: Pascal Butti
+  :N: ;Pascal Butti;;;
+  :PHONE: +41041762008237
+  :END:
+* Pascal Ziltener
+  :PROPERTIES:
+  :ADDRESS:  , CH
+  :FN: Pascal Ziltener
+  :N: Ziltener;Pascal;;;
+  :END:
+* Patrick
+  :PROPERTIES:
+  :EMAIL: quadmello@gmail.com (INTERNET)
+  :FN: Patrick
+  :N: ;Patrick;;;
+  :END:
+* Patrick Koller
+  :PROPERTIES:
+  :EMAIL: pako.2398@gmail.com
+  :FN: Patrick Koller
+  :N: Koller;Patrick;;;
+  :END:
+* Paul Garrett
+  :PROPERTIES:
+  :FN: ;Paul Garrett;;;
+  :N: ;Paul Garrett;;;
+  :PHONE: +11515343058
+  :END:
+* Philipp Holler SAC
+  :PROPERTIES:
+  :EMAIL: p.hollerer@gmx.ch
+  :FN: Philipp Holler SAC
+  :N: ;Philipp Holler SAC;;;
+  :PHONE: +41764898482
+  :END:
+* Philipp Hollerer
+  :PROPERTIES:
+  :EMAIL: p.hollerer@gmx.ch (INTERNET)
+  :FN: Philipp Hollerer
+  :N: Hollerer;Philipp;;;
+  :END:
+* Philipp Rastner
+  :PROPERTIES:
+  :EMAIL: philipp.rastner@geo.uzh.ch (INTERNET)
+  :FN: Philipp Rastner
+  :N: Rastner;Philipp;;;
+  :END:
+* Phillip Rastner
+  :PROPERTIES:
+  :FN: Phillip Rastner
+  :N: ;Phillip Rastner;;;
+  :PHONE: +41764976703
+  :END:
+* Pierre Dalban
+  :PROPERTIES:
+  :EMAIL: pierredalban@yahoo.com
+  :FN: Pierre Dalban
+  :N: Dalban;Pierre;;;
+  :END:
+* Pius Stadler
+  :PROPERTIES:
+  :EMAIL: sitgulin@hotmail.com
+  :FN: Pius Stadler
+  :N: Stadler;Pius;;;
+  :END:
+* Postauto Bedretto
+  :PROPERTIES:
+  :FN: Postauto Bedretto
+  :N: Bedretto;Postauto;;;
+  :PHONE: 0840852852
+  :END:
+* Postauto Bedretto (PU Marchetti SA Airolo)
+  :PROPERTIES:
+  :FN: Postauto Bedretto (PU Marchetti SA Airolo)
+  :N: Airolo);Postauto Bedretto (PU Marchetti;SA;;
+  :END:
+* RAHMAN
+  :PROPERTIES:
+  :EMAIL: mofiz.sunshine@gmail.com (INTERNET)
+  :FN: RAHMAN
+  :N: RAHMAN;Mohammed;Mofizur;;
+  :END:
+* Rachel Neil
+  :PROPERTIES:
+  :FN: ;Rachel Neil;;;
+  :N: ;Rachel Neil;;;
+  :PHONE: +18013890965
+  :END:
+* Rainee
+  :PROPERTIES:
+  :FN: ;Rainee;;;
+  :N: ;Rainee;;;
+  :PHONE: +18016444266
+  :END:
+* Rainer Will
+  :PROPERTIES:
+  :EMAIL: will.rainer@yahoo.de (INTERNET)
+  :FN: Rainer Will
+  :N: Will;Rainer;;;
+  :END:
+* Ralf Kropf
+  :PROPERTIES:
+  :ADDRESS: Turbinenstrasse 33, 8005 Zürich, Schweiz
+  :BDAY: 1988-12-04
+  :FN: Ralf Kropf
+  :N: Kropf;Ralf;;;
+  :END:
+* Rebecca Näf
+  :PROPERTIES:
+  :ADDRESS: Erismannstrasse 31, Zürich 8004
+  :EMAIL: rebecca@essento.ch
+  :FN: Rebecca Näf
+  :N: ;Rebecca Näf;;;
+  :PHONE: +41796585849
+  :END:
+* RegioInfo
+  :PROPERTIES:
+  :FN: RegioInfo
+  :N: ;RegioInfo;;;
+  :PHONE: 1600
+  :END:
+* Remo Ankli
+  :PROPERTIES:
+  :EMAIL: ankli@zoneholding.ch (INTERNET)
+  :FN: Remo Ankli
+  :N: Ankli;Remo;;;
+  :END:
+* Robert Herbst HH
+  :PROPERTIES:
+  :FN: Robert Herbst HH
+  :N: HH;Robert;Herbst;;
+  :PHONE: +4915151077787
+  :PHONE: +4915151077787
+  :END:
+* Robert Posch
+  :PROPERTIES:
+  :EMAIL: robertposch@web.de
+  :FN: Robert Posch
+  :N: Posch;Robert;;;
+  :END:
+* Robin Becker
+  :PROPERTIES:
+  :EMAIL: robin@reportlab.com (INTERNET)
+  :FN: Robin Becker
+  :N: Becker;Robin;;;
+  :END:
+* Rocio Baro
+  :PROPERTIES:
+  :FN: Rocio Baro
+  :N: ;Rocio Baro;;;
+  :PHONE: +41767033006
+  :END:
+* Romy Tilen
+  :PROPERTIES:
+  :EMAIL: rtilen@bluewin.ch (INTERNET)
+  :FN: Romy Tilen
+  :N: Tilen;Romy;;;
+  :END:
+* SAC Christoph
+  :PROPERTIES:
+  :FN: SAC Christoph
+  :N: Christoph;SAC;;;
+  :PHONE: +41788437276
+  :END:
+* SAC Gina
+  :PROPERTIES:
+  :FN: SAC Gina
+  :N: Gina;SAC;;;
+  :PHONE: 0793841150
+  :END:
+* SAC Jan Caspar
+  :PROPERTIES:
+  :FN: SAC Jan Caspar
+  :N: Caspar;SAC;Jan;;
+  :PHONE: 0787951157
+  :END:
+* SAC Martin Kimmig
+  :PROPERTIES:
+  :FN: SAC Martin Kimmig
+  :N: Kimmig;SAC;Martin;;
+  :PHONE: 0795547427
+  :END:
+* SAC Román
+  :PROPERTIES:
+  :FN: SAC Román 
+  :N: Román;SAC;;;
+  :PHONE: +41798757922
+  :PHONE: +41798757922
+  :END:
+* SCHMID
+  :PROPERTIES:
+  :EMAIL: s.schmid@uni-hohenheim.de (INTERNET)
+  :FN: SCHMID
+  :N: SCHMID;Stephanie;Sigrid;;
+  :END:
+* SIZ Mina Gloor
+  :PROPERTIES:
+  :FN: SIZ Mina Gloor
+  :N: Gloor;SIZ;Mina;;
+  :PHONE: +41797334249
+  :PHONE: +41797334249
+  :END:
+* SIZ Simone Piovan
+  :PROPERTIES:
+  :EMAIL: simone piovan <simone_piovan@yahoo.de>
+  :FN: SIZ Simone Piovan
+  :N: Piovan;SIZ;Simone;;
+  :PHONE: +41763382973
+  :PHONE: +41763382973
+  :PHONE: +41795589075
+  :END:
+* SPLISTESER
+  :PROPERTIES:
+  :EMAIL: tilman.splisteser@gmx.de (INTERNET)
+  :FN: SPLISTESER
+  :N: SPLISTESER;Tilman;;;
+  :END:
+* STANKOVIC
+  :PROPERTIES:
+  :EMAIL: seki.stankovic@gmail.com (INTERNET)
+  :FN: STANKOVIC
+  :N: STANKOVIC;Nikola;;;
+  :END:
+* SV_CH - Info
+  :PROPERTIES:
+  :EMAIL: info@salewa.ch
+  :FN: SV_CH - Info
+  :N: Info;SV_CH -;;;
+  :END:
+* Sabrina Behr
+  :PROPERTIES:
+  :EMAIL: sabrinabehr@gmx.de (INTERNET)
+  :FN: Sabrina Behr
+  :N: Behr;Sabrina;;;
+  :END:
+* Sadra Alavi
+  :PROPERTIES:
+  :ADDRESS:  , DE
+  :BDAY: Jul 19
+  :FN: Sadra Alavi
+  :N: Alavi;Sadra;;;
+  :END:
+* Salome Lehmann
+  :PROPERTIES:
+  :EMAIL: salome@essento.ch
+  :FN: Salome Lehmann
+  :N: Lehmann;Salome;;;
+  :END:
+* Samuel Kessens
+  :PROPERTIES:
+  :ADDRESS: Müllerstrasse 93 8004 ,  
+  :BDAY: 1988-07-26
+  :FN: Samuel Kessens
+  :N: Kessens;Samuel;;;
+  :ORG: I, n, s, e, c, t, p, l, u, s
+  :END:
+* Sarah Asam
+  :PROPERTIES:
+  :EMAIL: sarah_asam@gmx.de (INTERNET)
+  :FN: Sarah Asam
+  :N: Asam;Sarah;;;
+  :END:
+* Sarah Niklas
+  :PROPERTIES:
+  :EMAIL: sarah.niklas@gmail.com (INTERNET)
+  :FN: Sarah Niklas
+  :N: Niklas;Sarah;;;
+  :END:
+* Sascha Tourenportal
+  :PROPERTIES:
+  :FN: Sascha Tourenportal
+  :N: ;Sascha Tourenportal;;;
+  :PHONE: +41795604238
+  :END:
+* Schmidt@notariatspitalerstrasse.de
+  :PROPERTIES:
+  :EMAIL: schmidt@notariatspitalerstrasse.de
+  :FN: Schmidt@notariatspitalerstrasse.de
+  :END:
+* Sebl Luetzow
+  :PROPERTIES:
+  :EMAIL: rs-pro@live.de
+  :FN: Sebl Luetzow
+  :N: Luetzow;Sebl;;;
+  :END:
+* Severin Irl
+  :PROPERTIES:
+  :EMAIL: sev@szmuls-revenge.de (INTERNET)
+  :FN: Severin Irl
+  :N: Irl;Severin;;;
+  :END:
+* Shabani Mevlide
+  :PROPERTIES:
+  :EMAIL: m.shabani@schaeppi.ch (INTERNET)
+  :FN: Shabani Mevlide
+  :N: Mevlide;Shabani;;;
+  :END:
+* Sia
+  :PROPERTIES:
+  :FN: ;Sia;;;
+  :N: ;Sia;;;
+  :PHONE: +491797781033
+  :END:
+* Sia CH
+  :PROPERTIES:
+  :FN: Sia CH
+  :N: ;Sia CH;;;
+  :PHONE: +41767355034
+  :END:
+* Sia DE
+  :PROPERTIES:
+  :FN: Sia DE
+  :N: ;Sia DE;;;
+  :PHONE: +491797781033
+  :END:
+* Sia Go
+  :PROPERTIES:
+  :FN: Sia Go
+  :N: Go;Sia;;;
+  :END:
+* Sia Gosh
+  :PROPERTIES:
+  :EMAIL: heincheto@yahoo.com (INTERNET)
+  :FN: Sia Gosh
+  :N: Gosh;Sia;;;
+  :END:
+* Sia Gosheva
+  :PROPERTIES:
+  :EMAIL: hiencheto@yahoo.com (INTERNET)
+  :FN: Sia Gosheva
+  :N: Gosheva;Sia;;;
+  :END:
+* Silvia Kalender
+  :PROPERTIES:
+  :EMAIL: silvia.kalender@googlemail.com (INTERNET)
+  :FN: Silvia Kalender
+  :N: Kalender;Silvia;;;
+  :END:
+* Silvio Blaser
+  :PROPERTIES:
+  :FN: Silvio Blaser
+  :N: Blaser;Silvio;;;
+  :PHONE: +41763371909
+  :END:
+* Simon Eyer
+  :PROPERTIES:
+  :EMAIL: simon.eyer@gmail.com
+  :FN: Simon Eyer
+  :N: Eyer;Simon;;;
+  :END:
+* Simon Wang
+  :PROPERTIES:
+  :FN: Simon Wang
+  :N: ;Simon Wang;;;
+  :PHONE: +41786177324
+  :END:
+* Simona Talarico
+  :PROPERTIES:
+  :EMAIL: Simona.Talarico@simon-kucher.com
+  :FN: Simona Talarico
+  :N: Talarico;Simona;;;
+  :END:
+* Simone Piovan
+  :PROPERTIES:
+  :EMAIL: simone piovan <simone_piovan@yahoo.de>
+  :FN: Simone Piovan
+  :N: Piovan;Simone;;;
+  :PHONE: +41763382973
+  :PHONE: +41763382973
+  :PHONE: +41795589075
+  :END:
+* Sis
+  :PROPERTIES:
+  :FN: ;Sis;;;
+  :N: ;Sis;;;
+  :PHONE: +18014583351
+  :END:
+* Ski Clark Ligon
+  :PROPERTIES:
+  :EMAIL: scligon@gmail.com
+  :FN: Ski Clark Ligon
+  :N: ;Ski Clark Ligon;;;
+  :PHONE: +41762845066
+  :END:
+* Ski Pascal
+  :PROPERTIES:
+  :FN: Ski Pascal
+  :N: ;Ski Pascal;;;
+  :END:
+* Ski Patrick
+  :PROPERTIES:
+  :FN: Ski Patrick
+  :N: ;Ski Patrick;;;
+  :END:
+* Ski Patrizia
+  :PROPERTIES:
+  :FN: Ski Patrizia
+  :N: ;Ski Patrizia;;;
+  :END:
+* Ski Philippe
+  :PROPERTIES:
+  :FN: Ski Philippe
+  :N: ;Ski Philippe;;;
+  :END:
+* Smith Jill
+  :PROPERTIES:
+  :EMAIL: JillSmith@gmail.com
+  :FN: Jill Smith
+  :FN: Smith;Jill;;;
+  :N: Smith;Jill;;;
+  :END:
+* Soli Schindler
+  :PROPERTIES:
+  :EMAIL: SoSchindler@gmx.de (INTERNET)
+  :FN: Soli Schindler
+  :N: Schindler;Soli;;;
+  :END:
+* Sonia
+  :PROPERTIES:
+  :EMAIL: sschimmelpfennig@fh-eberswalde.de (INTERNET)
+  :FN: Sonia
+  :N: ;Sonia;;;
+  :END:
+* Sonia Meller
+  :PROPERTIES:
+  :FN: Sonia Meller
+  :N: Meller;Sonia;;;
+  :PHONE: +41788583960
+  :END:
+* Sonia Seneviratne
+  :PROPERTIES:
+  :EMAIL: sonia.seneviratne@env.ethz.ch
+  :FN: Sonia Seneviratne
+  :N: Seneviratne;Sonia;;;
+  :END:
+* Sonia Siu
+  :PROPERTIES:
+  :EMAIL: sius@wlu.edu (INTERNET)
+  :FN: Sonia Siu
+  :N: Siu;Sonia;;;
+  :END:
+* Sophia
+  :PROPERTIES:
+  :EMAIL: smetz@fh-eberswalde.de (INTERNET)
+  :FN: Sophia
+  :N: ;Sophia;;;
+  :END:
+* Souria
+  :PROPERTIES:
+  :EMAIL: souria@gmx.ch
+  :FN: Souria
+  :END:
+* Sport
+  :PROPERTIES:
+  :FN: Sport
+  :N: ;Sport;;;
+  :PHONE: 164
+  :END:
+* Sprachbox
+  :PROPERTIES:
+  :FN: Sprachbox
+  :N: ;Sprachbox;;;
+  :PHONE: +41860767406930
+  :END:
+* Stacy Brewer
+  :PROPERTIES:
+  :EMAIL: stacy@greaterozarksbowling.com (INTERNET)
+  :FN: Stacy Brewer
+  :N: Brewer;Stacy;;;
+  :END:
+* Stadt Uetersen
+  :PROPERTIES:
+  :FN: Stadt Uetersen
+  :N: Janert;Stadt Uetersen;Frau;;
+  :PHONE: +494122714219
+  :END:
+* Stefan Diener
+  :PROPERTIES:
+  :FN: Stefan Diener
+  :N: Diener;Stefan;;;
+  :PHONE: +41792682860
+  :END:
+* Stefan Holzheu
+  :PROPERTIES:
+  :EMAIL: stefan.holzheu@bayceer.uni-bayreuth.de (INTERNET)
+  :FN: Stefan Holzheu
+  :N: Holzheu;Stefan;;;
+  :END:
+* Stefanos ETH
+  :PROPERTIES:
+  :FN: Stefanos ETH
+  :N: ETH;Stefanos;;;
+  :PHONE: +41797005552
+  :END:
+* Steffi
+  :PROPERTIES:
+  :EMAIL: Stephanie.Thomas@uni-bayreuth.de (INTERNET)
+  :FN: Steffi
+  :N: ;Steffi;;;
+  :END:
+* Steiner
+  :PROPERTIES:
+  :EMAIL: benjamin.steiner@srf.ch (INTERNET)
+  :FN: Steiner
+  :N: Steiner;Benjamin;;;(SRF)
+  :END:
+* Stela Prodanovic
+  :PROPERTIES:
+  :EMAIL: stelap_83@yahoo.com
+  :FN: Stela Prodanovic
+  :N: Prodanovic;Stela;;;
+  :PHONE: +41788812214
+  :END:
+* Stephan Henne
+  :PROPERTIES:
+  :FN: Stephan Henne
+  :N: Henne;Stephan;;;
+  :PHONE: +41764195042
+  :END:
+* Stephanie Kunzelmann
+  :PROPERTIES:
+  :EMAIL: stephanie.kunzelmann@switch.ch (INTERNET)
+  :FN: Stephanie Kunzelmann
+  :N: Kunzelmann;Stephanie;;;
+  :END:
+* Steve Kass
+  :PROPERTIES:
+  :ADDRESS:  , AT
+  :FN: Steve Kass
+  :N: Kass;Steve;;;
+  :END:
+* Steven D'Aprano
+  :PROPERTIES:
+  :EMAIL: steve+comp.lang.python@pearwood.info (INTERNET)
+  :FN: Steven D'Aprano
+  :N: D'Aprano;Steven;;;
+  :END:
+* Susann Trabert
+  :PROPERTIES:
+  :EMAIL: susann.trabert@uni-bayreuth.de (INTERNET)
+  :FN: Susann Trabert
+  :N: Trabert;Susann;;;
+  :END:
+* Sven Kessler
+  :PROPERTIES:
+  :EMAIL: s.kessler@drk-altona-mitte.de
+  :FN: Sven Kessler
+  :N: Kessler;Sven;;;
+  :END:
+* Sven würsch
+  :PROPERTIES:
+  :EMAIL: wursch@hotmail.com (INTERNET)
+  :FN: Sven würsch
+  :N: würsch;Sven;;;
+  :END:
+* Svetlana Start-up
+  :PROPERTIES:
+  :FN: Svetlana Start-up
+  :N: ;Svetlana Start-up;;;
+  :PHONE: +41791361320
+  :END:
+* Swiss Silk Ueli Ramseier
+  :PROPERTIES:
+  :EMAIL: u.ramseier@bluewin.ch
+  :FN: Swiss Silk Ueli Ramseier
+  :N: Ramseier;Swiss Silk;Ueli;;
+  :PHONE: +41794368553
+  :PHONE: +41794368553
+  :END:
+* TC
+  :PROPERTIES:
+  :FN: ;TC
+  :N: ;TC;;;
+  :PHONE: +18062525263
+  :END:
+* Taro Murao
+  :PROPERTIES:
+  :EMAIL: taro.murao@gmail.com (INTERNET)
+  :FN: Taro Murao
+  :N: Murao;Taro;;;
+  :END:
+* Test Fullyfilledoutsquaredphoto
+  :PROPERTIES:
+  :EMAIL: Test.FullyfilledoutwithoutphotoTestFullyfilledoutwithoutphoto@example.com
+  :FN: Test Fullyfilledoutsquaredphoto
+  :PHONE: 0043/664/123456789
+  :PHONE: 0043/664/123456789
+  :PHONE: 0043/664/123456789
+  :PHONE: 0043/664/123456789
+  :END:
+* Test GIFphoto
+  :PROPERTIES:
+  :EMAIL: formatGIF@example.com
+  :FN: Test GIFphoto
+  :PHONE: ++43 664 111111111
+  :END:
+* Test JPEGphoto
+  :PROPERTIES:
+  :EMAIL: formatJPEG@example.com
+  :FN: Test JPEGphoto
+  :PHONE: 0043/664/111111114
+  :END:
+* Test Landscape
+  :PROPERTIES:
+  :EMAIL: formatJPEG@example.com
+  :FN: Test Landscape
+  :PHONE: 0043/664/111111120
+  :END:
+* Test Multipleentries
+  :PROPERTIES:
+  :EMAIL: Test.Multiple1@example.com
+  :EMAIL: Test.Multiple2@example.com
+  :EMAIL: Test.Multiple3@example.com
+  :EMAIL: Test.Multiple4@example.com
+  :FN: Test Multipleentries
+  :PHONE: 0043/664/123
+  :PHONE: 0043/664/123
+  :PHONE: 0043/664/123
+  :PHONE: 0043/664/123451
+  :PHONE: 0043/664/123452
+  :PHONE: 0043/664/123453
+  :PHONE: 0043/664/12345671
+  :PHONE: 0043/664/12345672
+  :PHONE: 0043/664/12345673
+  :PHONE: 0043/664/1234567891
+  :PHONE: 0043/664/1234567892
+  :PHONE: 0043/664/1234567893
+  :END:
+* Test Noimagefile
+  :PROPERTIES:
+  :EMAIL: noimagefile@example.com
+  :FN: Test Noimagefile
+  :PHONE: 0043/664/111111130
+  :END:
+* Test PNGphoto
+  :PROPERTIES:
+  :EMAIL: formatPNG@example.com
+  :FN: Test PNGphoto
+  :PHONE: ++43-664/11111111-2
+  :END:
+* Test Portrait
+  :PROPERTIES:
+  :EMAIL: formatJPEG@example.com
+  :FN: Test Portrait
+  :PHONE: 0043/664/111111121
+  :END:
+* Test Square
+  :PROPERTIES:
+  :EMAIL: formatJPEG@example.com
+  :FN: Test Square
+  :PHONE: 0043/664/111111122
+  :END:
+* Test TIFFphoto
+  :PROPERTIES:
+  :EMAIL: formatTIFF@example.com
+  :FN: Test TIFFphoto
+  :PHONE: 0043664111111113
+  :END:
+* Test Wrongimageformat
+  :PROPERTIES:
+  :EMAIL: wrongimageformat@example.com
+  :FN: Test Wrongimageformat
+  :PHONE: ++43/664/111111131
+  :PHONE: 111111132
+  :PHONE: 43/664/111111133
+  :END:
+* The Kiddies
+  :PROPERTIES:
+  :EMAIL: gce4@googlegroups.com (INTERNET)
+  :FN: The Kiddies
+  :N: Kiddies;The;;;
+  :END:
+* Thomas Ehemann
+  :PROPERTIES:
+  :EMAIL: tom.maguire@gmx.de
+  :FN: Thomas Ehemann
+  :N: Ehemann;Thomas;;;
+  :END:
+* Thomas Lehmann
+  :PROPERTIES:
+  :FN: Thomas Lehmann
+  :N: ;Thomas Lehmann;;;
+  :PHONE: +41041796846781
+  :END:
+* Thompson Jeremy
+  :PROPERTIES:
+  :EMAIL: adidashoch@yahoo.com (INTERNET)
+  :FN: Thompson Jeremy
+  :N: Jeremy;Thompson;;;
+  :END:
+* Tim
+  :PROPERTIES:
+  :FN: ;Tim;;;
+  :N: ;Tim;;;
+  :PHONE: +49176830291
+  :END:
+* Tim Besser
+  :PROPERTIES:
+  :EMAIL: bessertim@posteo.de (INTERNET)
+  :FN: Tim Besser
+  :N: Besser;Tim;;;
+  :END:
+* Tim CH
+  :PROPERTIES:
+  :EMAIL: bessertim@posteo.de
+  :FN: Tim CH
+  :N: ;Tim CH;;;
+  :PHONE: +41762346021
+  :END:
+* Tim DE
+  :PROPERTIES:
+  :EMAIL: bessertim@posteo.de
+  :FN: Tim DE
+  :N: ;Tim DE;;;
+  :PHONE: +4917686580367
+  :END:
+* Tj
+  :PROPERTIES:
+  :FN: ;Tj
+  :N: ;Tj;;;
+  :PHONE: +15054474404
+  :END:
+* Tobias Widmer
+  :PROPERTIES:
+  :EMAIL: tobias.widmer@wealthport.com
+  :FN: Tobias Widmer
+  :N: Widmer;Tobias;;;
+  :END:
+* Tom
+  :PROPERTIES:
+  :FN: ;Tom;;;
+  :N: ;Tom;;;
+  :PHONE: +49160980530
+  :END:
+* Tom Ehe man
+  :PROPERTIES:
+  :FN: Tom Ehe man
+  :N: ;Tom Ehe man;;;
+  :END:
+* Tom Thompson
+  :PROPERTIES:
+  :EMAIL: lngbchcgn@aol.com (INTERNET)
+  :FN: Tom Thompson
+  :N: Thompson;Tom;;;
+  :END:
+* Trudy
+  :PROPERTIES:
+  :EMAIL: trublu.fowers@juno.com (INTERNET)
+  :FN: Trudy
+  :N: ;Trudy;;;
+  :END:
+* Trudy Schaaf
+  :PROPERTIES:
+  :EMAIL: ggschaaf@hotmail.com (INTERNET)
+  :FN: Trudy Schaaf
+  :N: Schaaf;Trudy;;;
+  :END:
+* Ueli Gr=C3=BCninger
+  :PROPERTIES:
+  :EMAIL: verdi11@bluewin.ch
+  :FN: Ueli Gr=C3=BCninger
+  :N: Gr=C3=BCninger;Ueli;;;
+  :END:
+* Uhr Horloge Ora
+  :PROPERTIES:
+  :FN: Uhr Horloge Ora
+  :N: ;Uhr Horloge Ora;;;
+  :PHONE: 161
+  :END:
+* Uncle Louie
+  :PROPERTIES:
+  :FN: ;Uncle Louie;;;
+  :N: ;Uncle Louie;;;
+  :PHONE: +15053745432
+  :END:
+* Unger
+  :PROPERTIES:
+  :EMAIL: unger@rosepartner.de
+  :FN: Unger
+  :N: LLP.;['Unger', ' Elisabeth | ROSE & PARTNER'];;;
+  :END:
+* VIVOBAREFOOT.ch
+  :PROPERTIES:
+  :EMAIL: sales@vivobarefoot.de (INTERNET)
+  :FN: VIVOBAREFOOT.ch
+  :N: ch;VIVOBAREFOOT.;;;
+  :END:
+* Vasco Neuhaus
+  :PROPERTIES:
+  :EMAIL: vasco.neuhaus@gmail.com
+  :FN: Vasco Neuhaus
+  :N: Neuhaus;Vasco;;;
+  :END:
+* Vera Bal
+  :PROPERTIES:
+  :EMAIL: veraneka123@hotmail.com
+  :FN: Vera Bal
+  :N: Bal;Vera;;;
+  :END:
+* Verena Faßold
+  :PROPERTIES:
+  :EMAIL: Verena.Fassold@bayceer.uni-bayreuth.de (INTERNET)
+  :FN: Verena Faßold
+  :N: Faßold;Verena;;;
+  :END:
+* Verkehrsinfo
+  :PROPERTIES:
+  :FN: Verkehrsinfo
+  :N: ;Verkehrsinfo;;;
+  :PHONE: 163
+  :END:
+* Vipass Remo Ankli
+  :PROPERTIES:
+  :FN: Vipass Remo Ankli
+  :N: Ankli;Vipass;Remo;;
+  :PHONE: +41799159047
+  :END:
+* Vipass ZH Anita
+  :PROPERTIES:
+  :FN: Vipass ZH Anita
+  :N: Anita;Vipass;ZH;;
+  :PHONE: +41794454411
+  :PHONE: +41794454411
+  :END:
+* Vladi
+  :PROPERTIES:
+  :FN: ;Vladi;;;
+  :N: ;Vladi;;;
+  :PHONE: +12092448305
+  :END:
+* Volker Audorff
+  :PROPERTIES:
+  :EMAIL: volker.audorff@uni-bayreuth.de (INTERNET)
+  :FN: Volker Audorff
+  :N: Audorff;Volker;;;
+  :END:
+* Vollmer
+  :PROPERTIES:
+  :EMAIL: Martin.Vollmer@empa.ch (INTERNET)
+  :FN: Vollmer
+  :N: Vollmer;Martin;;;
+  :END:
+* WOHLFART
+  :PROPERTIES:
+  :EMAIL: christian.wohlfart@gmx.de (INTERNET)
+  :FN: WOHLFART
+  :N: WOHLFART;Christian;;;
+  :END:
+* Wabe3 Infomail
+  :PROPERTIES:
+  :EMAIL: info@wabe3.ch
+  :FN: Wabe3 Infomail
+  :N: Infomail;Wabe3;;;
+  :END:
+* Walter Frehner
+  :PROPERTIES:
+  :EMAIL: walter.frehner@gmail.com (INTERNET)
+  :FN: Walter Frehner
+  :N: Frehner;Walter;;;
+  :END:
+* Werner & Elfrieda
+  :PROPERTIES:
+  :FN: Werner & Elfrieda
+  :N: Elfrieda;Werner;&;;
+  :PHONE: +4915112265593
+  :PHONE: +4915112265593
+  :END:
+* Wicher Visser
+  :PROPERTIES:
+  :EMAIL: wtvisser@gmail.com
+  :FN: Wicher Visser
+  :N: Visser;Wicher;;;
+  :END:
+* Wiggl
+  :PROPERTIES:
+  :FN: Wiggl
+  :N: ;Wiggl;;;
+  :PHONE: +4917662176728
+  :END:
+* Will G
+  :PROPERTIES:
+  :FN: Will G
+  :N: G;Will;;;
+  :END:
+* Will Gutjahr
+  :PROPERTIES:
+  :EMAIL: willg@gmx.net (INTERNET)
+  :FN: Will Gutjahr
+  :N: Gutjahr;Will;;;
+  :END:
+* Will Hurst
+  :PROPERTIES:
+  :EMAIL: w.r.hurst@gmail.com (INTERNET)
+  :FN: Will Hurst
+  :N: Hurst;Will;;;
+  :END:
+* Willg
+  :PROPERTIES:
+  :EMAIL: willg@gmx.net
+  :FN: Willg
+  :N: ;Willg;;;
+  :PHONE: +41768030203
+  :END:
+* Williner Stefan
+  :PROPERTIES:
+  :EMAIL: stefan.williner@fibl.org
+  :FN: Williner Stefan
+  :N: Stefan;Williner;;;
+  :END:
+* Willy G
+  :PROPERTIES:
+  :EMAIL: willg@gmx.net
+  :FN: Willy G
+  :N: ;Willy G;;;
+  :PHONE: +41768030203
+  :END:
+* Wohnheim
+  :PROPERTIES:
+  :EMAIL: wohnheim@swo.uni-bayreuth.de (INTERNET)
+  :FN: Wohnheim
+  :N: Wohnheim;Zenkel;;;
+  :END:
+* Wolfgang Babel
+  :PROPERTIES:
+  :EMAIL: wolfgang.babel@uni-bayreuth.de (INTERNET)
+  :FN: Wolfgang Babel
+  :N: Babel;Wolfgang;;;
+  :END:
+* Xero Shoes
+  :PROPERTIES:
+  :EMAIL: support@xeroshoes.com
+  :FN: Xero Shoes
+  :N: Shoes;Xero;;;
+  :END:
+* Yana Balling
+  :PROPERTIES:
+  :EMAIL: y.balling@gmx.de (INTERNET)
+  :FN: Yana Balling
+  :N: Balling;Yana;;;
+  :END:
+* Yohannes Kidane
+  :PROPERTIES:
+  :EMAIL: yohannes-kidane@hotmail.com
+  :FN: Yohannes Kidane
+  :N: Kidane;Yohannes;;;
+  :END:
+* Yu Liu
+  :PROPERTIES:
+  :FN: Yu Liu
+  :N: Liu;Yu;;;
+  :PHONE: +41786241343
+  :END:
+* Yu Liu (yu.liu@usys.ethz.ch)
+  :PROPERTIES:
+  :EMAIL: yu.liu@usys.ethz.ch
+  :FN: Yu Liu (yu.liu@usys.ethz.ch)
+  :N: (yu.liu@usys.ethz.ch);Yu Liu;;;
+  :END:
+* Yvonne Schaub
+  :PROPERTIES:
+  :EMAIL: ySchaub@gmx.ch
+  :FN: Yvonne Schaub
+  :N: ;Yvonne Schaub;;;
+  :PHONE: +41799290454
+  :END:
+* Zebisch Marc
+  :PROPERTIES:
+  :EMAIL: Marc.Zebisch@eurac.edu (INTERNET)
+  :FN: Zebisch Marc
+  :N: Marc;Zebisch;;;
+  :END:
+* addzies
+  :PROPERTIES:
+  :FN: addzies
+  :N: ;addzies;;;
+  :END:
+* adidashoch
+  :PROPERTIES:
+  :FN: adidashoch
+  :N: ;adidashoch;;;
+  :END:
+* alessandro cicoira
+  :PROPERTIES:
+  :EMAIL: a.cicoira@gmail.com (INTERNET)
+  :FN: alessandro cicoira
+  :N: cicoira;alessandro;;;
+  :END:
+* amenzel@wzw.tum.de
+  :PROPERTIES:
+  :EMAIL: amenzel@wzw.tum.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* amie.lynn.thomas
+  :PROPERTIES:
+  :FN: amie.lynn.thomas
+  :N: thomas;amie;lynn.;;
+  :END:
+* andi Bantle
+  :PROPERTIES:
+  :EMAIL: andreas.bantle@dietenhofen.net
+  :FN: andi Bantle
+  :N: Bantle;andi;;;
+  :END:
+* andreas aretz
+  :PROPERTIES:
+  :EMAIL: a.aretz@yahoo.de (INTERNET)
+  :FN: andreas aretz
+  :N: aretz;andreas;;;
+  :END:
+* anke Jentsch
+  :PROPERTIES:
+  :EMAIL: anke.jentsch@uni-bayreuth.de (INTERNET)
+  :FN: anke Jentsch
+  :N: Jentsch;anke;;;
+  :END:
+* arianna Aceto
+  :PROPERTIES:
+  :EMAIL: ariannaaceto@yahoo.it
+  :FN: arianna Aceto
+  :N: Aceto;arianna;;;
+  :END:
+* arnim.heinemann@uni-bayreuth.de
+  :PROPERTIES:
+  :EMAIL: arnim.heinemann@uni-bayreuth.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* asja.bernd
+  :PROPERTIES:
+  :EMAIL: asja.bernd@gmail.com
+  :FN: asja.bernd
+  :N: ;asja.bernd;;;
+  :PHONE: +4915120474352
+  :END:
+* aurelie.shapiro@wwf.de
+  :PROPERTIES:
+  :EMAIL: aurelie.shapiro@wwf.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* basti@fsmpi.uni-bayreuth.de
+  :PROPERTIES:
+  :EMAIL: basti@fsmpi.uni-bayreuth.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* benjamin
+  :PROPERTIES:
+  :EMAIL: benjamin@ensectable.ch (INTERNET)
+  :FN: benjamin
+  :N: ;benjamin;;;
+  :END:
+* berhanu@climate.unibe.ch
+  :PROPERTIES:
+  :EMAIL: berhanu@climate.unibe.ch
+  :FN: berhanu@climate.unibe.ch
+  :END:
+* bestellbestaetigung@amazon.de....:
+  :PROPERTIES:
+  :EMAIL: bestellbestaetigung@amazon.de
+  :FN: bestellbestaetigung@amazon.de....:
+  :N: :;bestellbestaetigung@amazon;de.;;
+  :END:
+* born2shredd
+  :PROPERTIES:
+  :FN: born2shredd
+  :N: ;born2shredd;;;
+  :END:
+* brefeld@itc.nl
+  :PROPERTIES:
+  :EMAIL: brefeld@itc.nl (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* brock.thompson2005
+  :PROPERTIES:
+  :FN: brock.thompson2005
+  :N: thompson2005;brock;;;
+  :END:
+* cemreitzler@aol.com
+  :PROPERTIES:
+  :EMAIL: cemreitzler@aol.com (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* chaoticlime@yahoo.com
+  :PROPERTIES:
+  :EMAIL: chaoticlime@yahoo.com (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* christian.mockschan@gmx.de
+  :PROPERTIES:
+  :EMAIL: christian.mockschan@gmx.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* clemens.meraner@gmx.net
+  :PROPERTIES:
+  :EMAIL: clemens.meraner@gmx.net (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* cop10@cub.jtb.jp
+  :PROPERTIES:
+  :EMAIL: cop10@cub.jtb.jp (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* customerservice-spatialstats11@elsevier.com
+  :PROPERTIES:
+  :EMAIL: customerservice-spatialstats11@elsevier.com (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* deepoblivion
+  :PROPERTIES:
+  :FN: deepoblivion
+  :N: ;deepoblivion;;;
+  :END:
+* denise.keller
+  :PROPERTIES:
+  :EMAIL: denise.keller@gmx.net
+  :FN: denise.keller
+  :END:
+* dgiblin@uw.edu
+  :PROPERTIES:
+  :EMAIL: dgiblin@uw.edu (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* dixie.schulz.nowell
+  :PROPERTIES:
+  :FN: dixie.schulz.nowell
+  :N: nowell;dixie;schulz.;;
+  :END:
+* eddie
+  :PROPERTIES:
+  :EMAIL: eddie.self@motorola.com (INTERNET)
+  :FN: eddie
+  :N: ;eddie;;;
+  :END:
+* eroussel@forestry.nv.gov
+  :PROPERTIES:
+  :EMAIL: eroussel@forestry.nv.gov (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* fjumAes
+  :PROPERTIES:
+  :ADDRESS:  Frankfurt am Main, DE
+  :FN: fjumAes
+  :N: ;fjumAes;;;
+  :PHONE: +4969234253
+  :END:
+* fleischner@forst.wzw.tum.de
+  :PROPERTIES:
+  :EMAIL: fleischner@forst.wzw.tum.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* florian holzammer
+  :PROPERTIES:
+  :FN: florian holzammer
+  :N: holzammer;florian;;;
+  :PHONE: +491601580956
+  :END:
+* franz.soller@t-online.de
+  :PROPERTIES:
+  :EMAIL: franz.soller@t-online.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* gaby.neef@uvw.uni-bayreuth.de
+  :PROPERTIES:
+  :EMAIL: gaby.neef@uvw.uni-bayreuth.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* gce-2012@googlegroups.com
+  :PROPERTIES:
+  :EMAIL: gce-2012@googlegroups.com
+  :FN: gce-2012@googlegroups.com
+  :END:
+* gce2010@gmail.com
+  :PROPERTIES:
+  :EMAIL: gce2010@gmail.com (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* gce2010@googlegroups.com
+  :PROPERTIES:
+  :EMAIL: gce2010@googlegroups.com
+  :FN: gce2010@googlegroups.com
+  :END:
+* gce2011@googlegroups.com
+  :PROPERTIES:
+  :EMAIL: gce2011@googlegroups.com
+  :FN: gce2011@googlegroups.com
+  :END:
+* gce2013@googlegroups.com
+  :PROPERTIES:
+  :EMAIL: gce2013@googlegroups.com
+  :FN: gce2013@googlegroups.com
+  :END:
+* gce2014@googlegroups.com
+  :PROPERTIES:
+  :EMAIL: gce2014@googlegroups.com
+  :FN: gce2014@googlegroups.com
+  :END:
+* gce2015@googlegroups.com
+  :PROPERTIES:
+  :EMAIL: gce2015@googlegroups.com
+  :FN: gce2015@googlegroups.com
+  :END:
+* gce4@googlegroups.com
+  :PROPERTIES:
+  :EMAIL: gce4@googlegroups.com
+  :FN: gce4@googlegroups.com
+  :END:
+* gcelist@gmail.com
+  :PROPERTIES:
+  :EMAIL: gcelist@gmail.com
+  :FN: gcelist@gmail.com
+  :END:
+* globis
+  :PROPERTIES:
+  :EMAIL: GCE08@yahoogroups.com (INTERNET)
+  :FN: globis
+  :N: ;globis;;;
+  :END:
+* grandparents
+  :PROPERTIES:
+  :EMAIL: gcelist@gmail.com (INTERNET)
+  :FN: grandparents
+  :N: ;grandparents;;;
+  :END:
+* hardisol@science.oregonstate.edu
+  :PROPERTIES:
+  :EMAIL: hardisol@science.oregonstate.edu (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* hoek
+  :PROPERTIES:
+  :EMAIL: lonoami@gmail.com (INTERNET)
+  :FN: hoek
+  :N: ;hoek;;;
+  :END:
+* info
+  :PROPERTIES:
+  :EMAIL: info@advisor-swiss.com
+  :FN: info
+  :END:
+* info.cipollatico
+  :PROPERTIES:
+  :EMAIL: info@cipollatico.com (INTERNET)
+  :FN: info.cipollatico
+  :N: cipollatico;info.;;;
+  :END:
+* janabanana712
+  :PROPERTIES:
+  :FN: janabanana712
+  :N: ;janabanana712;;;
+  :END:
+* jleonbacher@aol.com
+  :PROPERTIES:
+  :EMAIL: jleonbacher@aol.com (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* julian timmings
+  :PROPERTIES:
+  :EMAIL: julian.timmings@paradise.net.nz
+  :FN: julian timmings
+  :N: timmings;julian;;;
+  :END:
+* julian.zeidler@uni-wuerzburg.de
+  :PROPERTIES:
+  :EMAIL: julian.zeidler@uni-wuerzburg.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* jwatermo@forestry.nv.gov
+  :PROPERTIES:
+  :EMAIL: jwatermo@forestry.nv.gov (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* k.s.oney@googlemail.com
+  :PROPERTIES:
+  :EMAIL: k.s.oney@googlemail.com (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* kathy_oney@yahoo.com
+  :PROPERTIES:
+  :EMAIL: kathy_oney@yahoo.com (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* kenners oney
+  :PROPERTIES:
+  :EMAIL: beautiful_angels14u2nv@yahoo.com
+  :FN: kenners oney
+  :N: oney;kenners;;;
+  :END:
+* koneyo
+  :PROPERTIES:
+  :FN: koneyo
+  :N: ;koneyo;;;
+  :END:
+* kristilou2001
+  :PROPERTIES:
+  :FN: kristilou2001
+  :N: ;kristilou2001;;;
+  :END:
+* listona@science.oregonstate.edu
+  :PROPERTIES:
+  :EMAIL: listona@science.oregonstate.edu (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* luca.pasolli@eurac.de
+  :PROPERTIES:
+  :EMAIL: luca.pasolli@eurac.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* luca.pasolli@eurac.edu
+  :PROPERTIES:
+  :EMAIL: luca.pasolli@eurac.edu (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* mathias.radow@gmx.de
+  :PROPERTIES:
+  :EMAIL: mathias.radow@gmx.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* matthias.radow@gmx.de
+  :PROPERTIES:
+  :EMAIL: matthias.radow@gmx.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* meyersst@science.oregonstate.edu
+  :PROPERTIES:
+  :EMAIL: meyersst@science.oregonstate.edu (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* moevemitfisch
+  :PROPERTIES:
+  :FN: moevemitfisch
+  :N: ;moevemitfisch;;;
+  :END:
+* nico.moelg@eurac.edu
+  :PROPERTIES:
+  :EMAIL: nico.moelg@eurac.edu (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* nicolas.gruber@env.ethz.ch
+  :PROPERTIES:
+  :EMAIL: nicolas.gruber@env.ethz.ch
+  :FN: nicolas.gruber@env.ethz.ch
+  :END:
+* panamabilly
+  :PROPERTIES:
+  :ADDRESS:  Salt lake city, Utah, US
+  :FN: panamabilly
+  :N: ;panamabilly;;;
+  :END:
+* peggy.lubinski@ufz.de
+  :PROPERTIES:
+  :EMAIL: peggy.lubinski@ufz.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* r-sig-geo-request@stat.math.ethz.ch
+  :PROPERTIES:
+  :EMAIL: r-sig-geo-request@stat.math.ethz.ch (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* r-sig-geo@r-project.org
+  :PROPERTIES:
+  :EMAIL: r-sig-geo@r-project.org (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* r-sig-geo@stat.math.ethz.ch
+  :PROPERTIES:
+  :EMAIL: r-sig-geo@stat.math.ethz.ch (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* rainee stevens
+  :PROPERTIES:
+  :EMAIL: lovely_82leo@yahoo.com (INTERNET)
+  :FN: rainee stevens
+  :N: stevens;rainee;;;
+  :END:
+* raoul baumann
+  :PROPERTIES:
+  :EMAIL: le.specialist@bluewin.ch
+  :FN: raoul baumann
+  :N: baumann;raoul;;;
+  :END:
+* rosemc1215@aol.com
+  :PROPERTIES:
+  :EMAIL: rosemc1215@aol.com (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* sarah ni
+  :PROPERTIES:
+  :ADDRESS:  Sydney, NSW, AU
+  :FN: sarah ni
+  :N: ni;sarah;;;
+  :PHONE: +61468407211
+  :END:
+* satar@climate.unibe.ch
+  :PROPERTIES:
+  :EMAIL: satar@climate.unibe.ch
+  :FN: satar@climate.unibe.ch
+  :END:
+* sekwis@bayceer.uni-bayreuth.de
+  :PROPERTIES:
+  :EMAIL: sekwis@bayceer.uni-bayreuth.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* self
+  :PROPERTIES:
+  :EMAIL: Brian.b.Oney@stmail.uni-bayreuth.de
+  :FN: self
+  :N: ;self;;;
+  :END:
+* sia Yallo
+  :PROPERTIES:
+  :FN: sia Yallo
+  :N: ;sia Yallo;;;
+  :PHONE: +41766720129
+  :END:
+* sia.gosheva
+  :PROPERTIES:
+  :EMAIL: sia.gosheva@googlemail.com (INTERNET)
+  :FN: sia.gosheva
+  :N: gosheva;sia.;;;
+  :END:
+* sia.gosheva@giz.de
+  :PROPERTIES:
+  :EMAIL: sia.gosheva@giz.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* simon Stoehr
+  :PROPERTIES:
+  :EMAIL: Spoeko@gmx.net (INTERNET)
+  :FN: simon Stoehr
+  :N: Stoehr;simon;;;
+  :END:
+* siyka.gosheva@giz.de
+  :PROPERTIES:
+  :EMAIL: siyka.gosheva@giz.de (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* snowboardjunky1
+  :PROPERTIES:
+  :FN: snowboardjunky1
+  :N: ;snowboardjunky1;;;
+  :END:
+* spprt@calflora.org
+  :PROPERTIES:
+  :EMAIL: spprt@calflora.org (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* start again BT Anouk
+  :PROPERTIES:
+  :FN: start again BT Anouk
+  :N: Anouk;start again;BT;;
+  :ORG: B, e, t, r, e, u, e, r
+  :PHONE: +41792632331
+  :PHONE: +41792632331
+  :END:
+* stefan peiffer
+  :PROPERTIES:
+  :EMAIL: s.peiffer@uni-bayreuth.de (INTERNET)
+  :FN: stefan peiffer
+  :N: peiffer;stefan;;;
+  :END:
+* sveni Funck
+  :PROPERTIES:
+  :EMAIL: svenja_funck@web.de (INTERNET)
+  :FN: sveni Funck
+  :N: Funck;sveni;;;
+  :END:
+* thomas.schellenberger@eurac.edu
+  :PROPERTIES:
+  :EMAIL: thomas.schellenberger@eurac.edu (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* timsen
+  :PROPERTIES:
+  :FN: timsen
+  :N: ;timsen;;;
+  :END:
+* tyler black
+  :PROPERTIES:
+  :EMAIL: t_black@pacific.edu (INTERNET)
+  :FN: tyler black
+  :N: black;tyler;;;
+  :END:
+* uheaa@utahsbr.edu
+  :PROPERTIES:
+  :EMAIL: uheaa@utahsbr.edu (INTERNET)
+  :FN: 
+  :N: ;;;;
+  :END:
+* vladimir_zdravkovic
+  :PROPERTIES:
+  :FN: vladimir_zdravkovic
+  :N: ;vladimir_zdravkovic;;;
+  :END:
+* werner gasser
+  :PROPERTIES:
+  :EMAIL: wernergasser@ymail.com (INTERNET)
+  :FN: werner gasser
+  :N: gasser;werner;;;
+  :END:
+* yallo credit
+  :PROPERTIES:
+  :FN: yallo credit
+  :N: ;yallo credit;;;
+  :PHONE: *123#
+  :END:
+* yallo help
+  :PROPERTIES:
+  :FN: yallo help
+  :N: ;yallo help;;;
+  :PHONE: 0840004488
+  :END:
+* yallo refill
+  :PROPERTIES:
+  :FN: yallo refill
+  :N: ;yallo refill;;;
+  :PHONE: *120#
+  :END:
+* yalloBox
+  :PROPERTIES:
+  :FN: yalloBox
+  :N: ;yalloBox;;;
+  :PHONE: +41763333333
+  :END:
+* zss nicole
+  :PROPERTIES:
+  :FN: zss nicole
+  :N: nicole;zss;;;
+  :PHONE: +41794477663
+  :PHONE: +41794477663
+  :END:
+* Гоше
+  :PROPERTIES:
+  :EMAIL: nasigogo@gmail.com
+  :FN: Гоше
+  :N: ;Гоше;;;
+  :PHONE: +491787120071
+  :END:
+* Коко
+  :PROPERTIES:
+  :FN: Коко
+  :N: ;Коко;;;
+  :PHONE: +491777767380
+  :END:
+* Номер пемска
+  :PROPERTIES:
+  :FN: Номер пемска
+  :N: пемска;Номер;;;
+  :PHONE: +4917638498570
+  :END:
+* Пухи
+  :PROPERTIES:
+  :FN: Пухи
+  :N: ;Пухи;;;
+  :PHONE: +491787120113
+  :END:
+
+#+STARTUP: showeverything
