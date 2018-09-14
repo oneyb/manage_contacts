@@ -14,6 +14,17 @@ manage_contacts .. contacts-from-vcfs.org
    - output as org-contacts formatted org-file 
    - output as all vcf-files as a single sorted, uniqued vcf-file
 
+** Install
+
+#+BEGIN_SRC shell
+pip3 install git+https://github.com/oneyb/manage_contacts
+# Or:
+git clone https://github.com/oneyb/manage_contacts
+cd manage_contacts && python setup.py install
+#+END_SRC
+
+*NOTE*: you will need to install it as root or as your user (--user), in order to have the following scripts in the system path.
+
 * TODO Nice to have additions:
   - [ ] Grouping based on tags
   - [ ] automatic merging of disparate info
