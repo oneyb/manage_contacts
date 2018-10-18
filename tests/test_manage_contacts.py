@@ -3,8 +3,9 @@
 
 import vobject
 import unittest
-import manage_contacts
 import os
+
+from manage_contacts import manage_contacts
 
 
 class TestObservedVcardToOrg(unittest.TestCase):

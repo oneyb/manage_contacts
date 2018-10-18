@@ -21,9 +21,9 @@ import vobject
 from itertools import chain
 
 # Org file structure
-prefix = "*"
-indentation = len(prefix) * 2 * ' '
-template = indentation + ":%s: %s%s"
+PREFIX = "*"
+INDENTATION = len(PREFIX) * 2 * ' '
+TEMPLATE = INDENTATION + ":%s: %s%s"
 
 
 def get_vcf_files(d):
@@ -153,14 +153,14 @@ def vcard_to_org(vcard):
         # break org's property format:
         value = value.replace("\n", ", ")
 
-        child_list.append(template % (name, value, attribs))
+        child_list.append(TEMPLATE % (name, value, attribs))
         child_list.sort()
 
-    org_list.append("%s %s" % (prefix, fn_value))
-    org_list.append(indentation + ":PROPERTIES:\n" + u'\n'.join(child_list))
-    org_list.append(indentation + ":END:\n")
+    org_list.append("%s %s" % (PREFIX, fn_value))
+    org_list.append(INDENTATION + ":PROPERTIES:\n" + u'\n'.join(child_list))
+    org_list.append(INDENTATION + ":END:\n")
     if note:
-        org_list.append(indentation + note + r'\n')
+        org_list.append(INDENTATION + note + r'\n')
 
     return fn_value, u'\n'.join(org_list)
 
@@ -214,9 +214,8 @@ def main():
         # import pdb
         # pdb.set_trace()
         with open(outfile, 'w', encoding='utf-8') as f:
-            for name in sorted(contacts):
+            for name in contacts:
                 f.write(name)
-
 
 
 def to_vcard(item):
