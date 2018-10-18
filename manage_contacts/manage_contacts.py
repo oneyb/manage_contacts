@@ -27,6 +27,7 @@ TEMPLATE = INDENTATION + ":%s: %s%s"
 
 
 def get_vcf_files(d):
+    '''Find all VCF-file in and below a certain directory.'''
     files = []
     for root, dirs, fnames in os.walk(d):
         for f in fnames:
@@ -36,6 +37,7 @@ def get_vcf_files(d):
 
 
 def read_vcf_file(fname, removePhotos=True):
+    '''Read the contents of a VCF-file.'''
     with open(fname, "r", encoding="utf-8") as f:
         vcf_list = f.readlines()
     # remove photos
@@ -45,6 +47,7 @@ def read_vcf_file(fname, removePhotos=True):
 
 
 def remove_photos(flat_raw_list):
+    '''Photos can be pretty wierd, prefer to remove them.'''
     photo_index_tuple_list = []
     photo = False
     for j, line in enumerate(flat_raw_list):
@@ -72,7 +75,9 @@ def remove_photos(flat_raw_list):
 
 
 def parse_vcf_file(vcf_list):
-
+    '''
+    Parse the contents of VCF-file entries
+    '''
     string_buffer = io.StringIO(u''.join(vcf_list))
     try:
         vcards_raw = vobject.readComponents(
@@ -87,6 +92,9 @@ def parse_vcf_file(vcf_list):
 
 
 def vcard_to_org(vcard):
+    '''
+    convert vobject.vCard to list of string for writing to the output file
+    '''
     org_list = []
     try:
         children = vcard.getChildren()
